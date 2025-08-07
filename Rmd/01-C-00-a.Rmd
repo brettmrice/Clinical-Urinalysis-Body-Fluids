@@ -1,0 +1,88 @@
+# Cells {-}
+
+Let's get our virtual microscopes focused and dive into the fascinating world of cells you'll encounter in urine sediment. This is where your skills as a morphologist truly shine. Remember, the key is not just to identify a cell, but to understand what its presence means
+
+First, a quick note on preparation. We examine urine sediment under the microscope after centrifugation. This sediment can be viewed as an **unstained wet mount** or after adding a stain. The most common stain used in urinalysis is the **Sternheimer-Malbin stain**, which contains crystal violet and safranin. It helps differentiate nuclear detail and cytoplasm, making identification much easier
+
+Let's begin our tour of the cellular world, going from blood cells to the various epithelial cells that line the urinary tract
+
+## **Red Blood Cells (Erythrocytes)** {-}
+
+*   **Unstained Appearance:** In a normal isotonic specimen, RBCs are smooth, non-nucleated, biconcave discs, measuring about 7 µm in diameter. They appear colorless or pale yellow. It's easy to confuse them with other elements, so focusing up and down with the fine adjustment knob is your best friend
+    *   In **hypertonic urine:** (high SG), water leaves the cell, causing it to shrink and develop spiky projections. These are called **crenated RBCs**
+    *   In **hypotonic urine:** (low SG), water enters the cell, causing it to swell and lyse. The empty cell membrane is called a **ghost cell** or **shadow cell**
+*   **Stained Appearance:** RBCs stain pink to purple with Sternheimer-Malbin stain, making them much easier to identify
+*   **Clinical Significance**
+    *   The presence of more than 3-5 RBCs per high-power field (hpf) is considered abnormal and is termed **hematuria**
+    *   **Dysmorphic RBCs:** (variably sized, misshapen, with blebs) suggest they have passed through the glomerulus and are indicative of **glomerular bleeding**
+    *   Normal-looking RBCs suggest bleeding from a point lower in the urinary tract, such as from a kidney stone, tumor, or UTI
+*   **Common Look-alikes:** Yeast (often show budding), air bubbles (highly refractile, vary in size), and oil droplets (highly refractile)
+
+## **White Blood Cells (Leukocytes)** {-}
+
+The most common WBC seen in urine is the neutrophil, but others can appear in specific conditions
+
+### **Neutrophils** {-}
+
+*   **Unstained Appearance:** Larger than RBCs (about 12 µm), spherical, and granular. Their multi-lobed nucleus is often visible but can be difficult to discern without stain. In hypotonic urine, they can swell and their granules may exhibit Brownian motion, creating a sparkling appearance—these are called **"glitter cells"** and were once mistakenly thought to be a specific cell type
+*   **Stained Appearance:** The segmented nucleus stains a distinct purple, and the cytoplasm appears light purple with visible granules. This makes them unmistakable
+*   **Clinical Significance**
+    *   The presence of >5 WBCs/hpf is called **pyuria:** and indicates infection or inflammation in the genitourinary tract. This is a key finding in **Urinary Tract Infections (UTIs)**
+    *   WBCs are often seen in clumps during a heavy infection. Their presence should correlate with a positive Leukocyte Esterase and possibly a positive Nitrite test
+
+### **Neutrophil/Macrophage with Intracellular Bacteria** {-}
+
+*   **Appearance:** This is a neutrophil or a larger macrophage that has visibly phagocytized bacteria within its cytoplasm
+*   **Clinical Significance:** This is a **critically important finding**. While bacteria can be present in urine due to contamination, finding bacteria *inside* a white blood cell is definitive proof of an active infection, not just contamination from the collection process
+
+### **Eosinophils, Lymphocytes, and Monocytes** {-}
+
+These are much less common but clinically important when seen
+
+*   **Eosinophils:** Are not identifiable on a standard wet mount or with Sternheimer-Malbin stain. To identify them, a special stain like **Hansel stain** is required. The presence of >1% eosinophils is a major indicator of **Acute Interstitial Nephritis (AIN)**, often caused by a drug allergy
+*   **Lymphocytes:** Are the smallest WBC, slightly larger than an RBC. They are dominated by a large, round, non-segmented nucleus. They can be seen in the early stages of kidney transplant rejection
+*   **Monocytes/Macrophages:** The largest WBCs, with an indented or kidney-bean-shaped nucleus and abundant cytoplasm that may contain vacuoles. They are phagocytic and appear in response to inflammation
+
+***
+## **Epithelial Cells** {-}
+
+Epithelial cells are reported based on their site of origin, and their clinical significance ranges from normal sloughing to a sign of serious renal pathology. We generally classify them from least significant to most significant
+
+### **Squamous Epithelial Cells** {-}
+
+*   **Appearance:** The largest cells found in urine sediment. They are thin, flat, and irregularly shaped, often described as looking like a "fried egg." They have a small, central nucleus. They are frequently seen folded or in clumps
+*   **Clinical Significance:** They are the least clinically significant of the epithelial cells. They line the vagina and lower portion of the urethra. Their presence in large numbers, especially in a female midstream clean-catch specimen, indicates contamination with vaginal secretions
+*   **Clue Cells:** This is a specific and important type of squamous epithelial cell. It is a squamous cell that is completely covered by bacteria (most commonly *Gardnerella vaginalis*), obscuring the cell borders and giving it a "shaggy" or granular appearance. **The presence of clue cells is diagnostic for bacterial vaginosis.**
+
+### **Transitional Epithelial Cells (Urothelial Cells)** {-}
+
+*   **Appearance:** Smaller than squamous cells, they are highly variable in shape. They can be spherical (if they absorbed water), pear-shaped, or have tail-like projections (**caudate**). They have a distinct, central nucleus
+*   **Clinical Significance:** These cells line the renal pelvis, ureters, and bladder. A few are expected in a normal urine from the sloughing of old cells. Increased numbers, especially in sheets or clumps, can be seen after catheterization or with inflammation from a UTI. If the cells appear atypical (e.g., very large, multiple nuclei), they can be suspicious for urothelial carcinoma and may require cytology follow-up
+*   **Parabasal/Basal Cells:** These are smaller, rounder transitional cells from the deeper layers. They can be seen in post-menopausal women. Their small size and round shape can cause them to be confused with RTE cells
+
+### **Renal Tubular Epithelial (RTE) Cells** {-}
+
+*   **Appearance:** This is the most clinically significant epithelial cell. They are only slightly larger than WBCs, but they are distinguished by their **single, large, round, and often eccentrically placed (off-center) nucleus**. Their shape can be cuboidal ("blocky") if they originate from the proximal tubule or columnar ("rectangular") if from the collecting duct
+*   **Clinical Significance:** Finding **more than 2 RTE cells per hpf** is a significant indicator of active renal disease or tubular injury. Their presence points to damage to the nephrons themselves. Conditions include:
+    *   **Acute Tubular Necrosis (ATN):** Caused by ischemia or toxic substances (heavy metals, drugs)
+    *   Viral infections (e.g., cytomegalovirus)
+    *   Kidney transplant rejection
+    *   When RTEs are seen embedded in a cast (an RTE cast), it is definitive proof of severe tubular injury
+
+## **Spermatozoa** {-}
+
+*   **Appearance:** Unmistakable oval head and a long, thin tail
+*   **Clinical Significance:** They are commonly seen in the urine of males after ejaculation and in females after intercourse. They are generally not considered clinically significant and are reported based on lab protocol. However, their presence in the urine of a pre-pubescent child can be a medico-legal issue. Their presence can also be significant in cases of retrograde ejaculation during infertility workups
+
+By mastering the identification of these cells, you can provide physicians with invaluable information about processes happening all the way from the glomerulus down to the urethra. It's a microscopic puzzle where each piece tells part of the patient's story
+
+## **Putting It All Together: The Cellular Story** {-}
+
+Think of the cells you identify under the microscope as characters in a story that tells you *where* in the genitourinary tract the problem is located. Your job is to read that story. It starts with assessing the quality of the sample and ends with peering deep inside the nephron
+
+*   A specimen flooded with **squamous epithelial cells:** is a story of **contamination**, not pathology. It tells you the sample may not be reliable. However, if that squamous cell is a **clue cell**, the story changes to one of **bacterial vaginosis**
+*   Finding clumps of **transitional cells:** alongside numerous **WBCs (pyuria)** points to inflammation in the bladder or ureters—the classic picture of a **UTI**. If you can spot a neutrophil that has actually ingested bacteria, you have found definitive proof of infection
+*   When you see **Renal Tubular Epithelial (RTE) cells**, the story takes a serious turn. This is no longer about the bladder; you are now witnessing damage deep within the kidney itself, a hallmark of acute tubular necrosis or other severe renal diseases
+*   Finally, the presence of **RBCs (hematuria):** forces you to ask the most critical question: what do they look like? If they appear normal, the bleeding is likely from the lower tract (a stone or tumor). But if they are **dysmorphic** and misshapen, they are telling you they have been forcibly squeezed through a damaged glomerulus, pointing to serious glomerular disease
+
+By identifying not just *what* the cells are, but how they look and what other cells they are with, you can construct a powerful narrative that guides the physician directly to the source of the patient's problem

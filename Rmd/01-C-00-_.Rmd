@@ -1,0 +1,51 @@
+# Microscopic {-}
+
+This is the grand finale of the urinalysis—the part where we look through the microscope and see the direct evidence of health or disease. It's where all the clues from the physical and chemical exams come into focus
+
+## **Microscopic Examination of Urine** {-}
+
+The microscopic examination is the most detailed and diagnostically rich part of the entire urinalysis. After centrifuging the urine to concentrate its solid components into a sediment, we place a drop on a slide and enter a world of cells, casts, crystals, and microorganisms. This is not just a process of identification; it is a process of interpretation. By recognizing the patterns of these "formed elements," we can confirm findings from the physical and chemical exams, pinpoint the location of an injury within the genitourinary tract, and provide definitive evidence for specific diseases
+
+## **Casts: The Kidney's "Biopsy"** {-}
+
+Casts are the single most significant finding in the microscopic exam because they are the only element formed exclusively **within the kidney tubules**. Their presence definitively localizes a problem to the kidney itself
+
+*   **The Matrix:** All casts share a base matrix of **Tamm-Horsfall protein**, which acts like a gelatin mold of the tubule
+*   **The Story They Tell:** What gets trapped in that mold tells the story
+    *   **RBC Casts:** Prove bleeding is from the kidney (**glomerulonephritis**)
+    *   **WBC Casts:** Prove inflammation/infection is in the kidney (**pyelonephritis**)
+    *   **RTE Casts:** Prove severe damage to the tubules themselves (**acute tubular necrosis**)
+*   **The Life Cycle:** The type of cast can also indicate the chronicity of the disease. Cellular casts degenerate into **granular casts** and, with extreme stasis, into brittle **waxy casts**, which are a sign of advanced renal failure
+
+## **Cells: The Characters of the Story** {-}
+
+The cells present in the urine sediment tell us what kind of process is occurring and provide clues to its location
+
+*   **Red Blood Cells (RBCs):** Their presence (**hematuria**) indicates bleeding. Their appearance is key: uniform, normal-looking RBCs suggest a lower tract bleed (e.g., stone or bladder tumor), while misshapen, **dysmorphic RBCs** point to damage in the glomerulus
+*   **White Blood Cells (WBCs):** Their presence (**pyuria**) signals infection or inflammation. They are the soldiers fighting a battle somewhere in the GU tract
+*   **Epithelial Cells:** These are the "address labels" of the urinary tract
+    *   **Squamous Cells:** Large, flat cells from the lower urethra and vagina. In large numbers, they indicate **contamination**, not pathology
+    *   **Transitional (Urothelial) Cells:** From the bladder and ureters. Increased numbers can indicate a UTI or inflammation
+    *   **Renal Tubular Epithelial (RTE) Cells:** The most significant epithelial cell. Their presence points directly to active damage within the kidney tubules
+
+## **Crystals: The Chemical Precipitates** {-}
+
+Crystals form when urinary solutes precipitate out of solution. Their identification is a puzzle that relies heavily on morphology and, most importantly, **urine pH**
+
+*   **Normal Crystals:** Benign crystals like **calcium oxalate** ("envelopes") and **uric acid** are common in acidic urine. **Triple phosphate** ("coffin lids") are common in alkaline urine
+*   **Abnormal Crystals:** These are always clinically significant and point to metabolic disorders. Examples include **cystine** hexagons (cystinuria), **leucine** spheres and **tyrosine** needles (liver disease), and **cholesterol** plates (nephrotic syndrome)
+
+## **Microorganisms: The Invaders** {-}
+
+Identifying microorganisms helps to confirm or discover infections
+
+*   **Bacteria:** A common finding. Their significance is determined by context: when seen with numerous **WBCs** and few squamous cells, they strongly suggest a **UTI**. When seen alone with many squamous cells, they likely represent **contamination**
+*   **Yeast:** Often seen in diabetic or immunocompromised patients. They are classic look-alikes for RBCs but are distinguished by their budding
+*   **Parasites:** The most common is ***Trichomonas vaginalis***, a motile flagellate that is a key indicator of a sexually transmitted infection
+
+## **Contaminants and Artifacts: The Red Herrings** {-}
+
+A skilled MLS must be a gatekeeper, able to distinguish true clinical findings from "noise."
+
+*   **Contaminants:** Are real objects that fell into the specimen but did not come from the urinary tract. This includes **fibers** from clothing, **pollen grains**, and **starch** from powders. Recognizing these prevents misidentification of casts or other significant elements
+*   **Artifacts:** Are illusions created during the slide preparation or viewing process. This includes **air bubbles**, **oil droplets**, and **scratches** on the slide. Recognizing these is crucial to avoid reporting something that isn't really there

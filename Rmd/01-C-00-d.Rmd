@@ -1,0 +1,57 @@
+# Microorganisms {-}
+
+Let's turn our microscopes to the world of the tiny and the living. The presence of microorganisms in urine can range from being an insignificant contaminant to the primary cause of a patient's disease. Your job as a laboratory scientist is not just to see them, but to interpret their presence in the context of the entire urinalysis. A clean-catch specimen is our best friend here, helping us differentiate a true infection from simple contamination
+
+## **Bacteria** {-}
+
+This is, by far, the most common microorganism you will see and report
+
+*   **Description:** Bacteria are incredibly small and can be difficult to see, especially if they aren't moving. You will need to be on high power (40x) with a slightly dimmed light. They can appear as small spheres (**cocci**) or rods (**bacilli**). A key observation is motility; some bacteria will exhibit rapid, darting movements, while others may just vibrate in place due to Brownian motion
+*   **Reporting:** Reported semi-quantitatively per high power field (hpf) as rare, few, moderate, or many
+*   **Clinical Significance:** The presence of bacteria, especially when accompanied by white blood cells, is a hallmark of a **Urinary Tract Infection (UTI)**. The most common cause of UTIs is gram-negative rods like *E. coli*
+*   **Correlation is Everything:** This is where you put on your detective hat. A report of "many bacteria" means very different things depending on the other findings:
+    *   **Probable UTI:** Bacteria are seen along with numerous **WBCs**. The reagent strip is likely positive for **Leukocyte Esterase** and possibly **Nitrite**. The patient specimen was a midstream clean-catch with few squamous epithelial cells
+    *   **Probable Contamination:** Bacteria are seen, but there are **few or no WBCs**. The Leukocyte Esterase is negative. Most importantly, you see **many squamous epithelial cells**, indicating a poorly collected specimen. The bacteria are likely from the skin or vaginal flora, not from the bladder
+*   **A Note on Nitrite:** Remember, a positive nitrite test is highly specific for a UTI (caused by nitrate-reducing bacteria), but a negative test does not rule one out! The infection could be caused by non-nitrate reducers (like *Staphylococcus* or *Enterococcus*), or the urine may not have been in the bladder long enough (at least 4 hours) for the conversion to occur. Your microscopic finding of bacteria and WBCs is crucial in these cases
+
+## **Yeast** {-}
+
+*   **Description:** Yeast cells, typically *Candida* species, appear as colorless, ovoid (egg-shaped) bodies that are often seen with buds coming off the main cell. They can also form long, branch-like structures called **pseudohyphae**. They are typically a bit larger than RBCs
+*   **Look-alikes (A classic exam question!):** Yeast is most often confused with Red Blood Cells. Here's how to tell them apart:
+    *   **Budding:** Yeast buds; RBCs do not. This is the single best differentiator
+    *   **Shape:** Yeast is more oval and variable in size; RBCs are uniform biconcave discs
+    *   **Refractility:** Yeast can be more refractile
+    *   **Acetic Acid Test:** If you're really unsure, adding a drop of acetic acid to the sediment will lyse RBCs, but yeast will remain intact
+*   **Clinical Significance:** The presence of yeast can indicate a true yeast infection of the urinary tract, which is common in **diabetic** patients (the glucose in their urine is a food source!) and the **immunocompromised**. More frequently, however, it represents contamination from a vaginal yeast infection in female patients. Correlation with the presence of WBCs and patient history is key
+
+## **Parasites** {-}
+
+Finding a parasite is less common, but it's a critical finding you must be able to recognize
+
+*   ***Trichomonas vaginalis***
+    *   **Description:** This is the most common parasite seen in urine. It is a pear-shaped protozoan flagellate, about the size of a WBC or slightly larger. Its most identifying feature is its rapid, jerky, non-directional **motility**, powered by its flagella
+    *   **Significance:** This is a sexually transmitted pathogen that causes vaginitis in females and urethritis in males. Finding even one is clinically significant
+    *   **Critical Note:** Motility is key to identification! In a refrigerated or old sample, the organism will die and lose its motility, making it look almost identical to a WBC or a small transitional epithelial cell. Always note if the specimen is fresh when making an identification
+
+*   ***Schistosoma haematobium***
+    *   **Description:** This is a parasitic fluke (worm) that is not endemic to North America but may be seen in patients who have traveled to Africa or the Middle East. You will not see the adult worm, but rather its very large and characteristic **egg**: a large oval structure with a sharp, pointed **terminal spine**
+    *   **Significance:** This is the cause of urinary schistosomiasis and is associated with bladder cancer. The eggs are deposited in the bladder wall and are shed into the urine. This is a very significant finding
+
+*   ***Enterobius vermicularis* (Pinworm)**
+    *   **Description:** You may see the distinctive pinworm egg in the urine sediment. It is large and characteristically flattened on one side
+    *   **Significance:** This is **not a urinary parasite**. Its presence always indicates **fecal contamination** of the specimen
+
+## **Spermatozoa** {-}
+
+*   **Description:** Unmistakable. Spermatozoa have an oval head and a long, thin tail. They are sometimes still motile in fresh specimens
+*   **Significance:** In most cases, the presence of sperm in urine has **no clinical significance** and is not considered abnormal. It is a common finding in male urine after ejaculation and in female urine as a contaminant after intercourse. Rarely, it can be of clinical interest in cases of male infertility due to retrograde ejaculation (sperm entering the bladder instead of being expelled). It is reported if present, but usually without a pathological interpretation
+
+## **Putting It All Together: Invaders or Bystanders?** {-}
+
+When you switch to high power and start hunting for microorganisms, you become less of a scientist and more of a private investigator. Your central question is this: Are these organisms the culprits behind an infection, or are they just innocent bystanders from a contaminated "crime scene?"
+
+*   The prime suspect is always **bacteria**. But seeing them isn't enough. The real evidence lies in their accomplices. Are they surrounded by an army of **WBCs (pyuria):** in a clean-catch specimen? That's strong evidence for a **UTI**. But if the only other characters are a flood of **squamous epithelial cells**, you're likely looking at simple **contamination**, not a true infection
+*   Next, you'll encounter the classic RBC look-alike: **yeast**. Your best clue is to look for **budding**, the definitive sign that separates a fungus from a blood cell. A positive glucose on the dipstick can also be a hint, as these sugar-loving organisms thrive in diabetic urine
+*   Finally, be on the lookout for the motile parasite, ***Trichomonas***. Finding even one is significant. But remember, its signature jerky dance is only visible in a fresh specimen. In an old sample, it dies and looks just like a WBC—a perfect disguise
+
+Ultimately, identifying microorganisms is all about context. It’s about piecing together the clues from the entire urinalysis—the WBCs, the epithelial cells, the chemical results—to determine if you've found the cause of a disease or simply evidence of a poor collection. That's the difference between seeing a bug and helping to diagnose an infection

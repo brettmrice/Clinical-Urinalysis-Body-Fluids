@@ -1,0 +1,26 @@
+# Content Areas {-}
+
+Source: <a href="https://www.ascp.org/content/board-of-certification/get-credentialed#" target="_blank">MLT(ASCP) and MLS(ASCP) Certifications > Applicant Resources > Content Guideline</a>
+
+Major content areas covered:
+
+## **Urinalysis** {-}
+
+*   [Physical](physical.html)
+*   [Chemical](chemical.html)
+*   [Microscopic](microscopic.html)
+*   [Renal Physiology](renal-physiology.html)
+*   [Disease States](disease-states.html)
+
+## **Body Fluids** {-}
+
+*   [Physical](physical-1.html)
+*   [Chemical](chemical-1.html)
+*   [Microscopic](microscopic-1.html)
+*   [Physiology](physiology.html)
+*   [Disease States](disease-states-1.html)
+
+## Last Updated {-}
+
+Last edit pushed to this site was on <span id="last_updated">`r Sys.Date()`</span>
+

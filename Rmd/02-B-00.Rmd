@@ -1,0 +1,82 @@
+# Chemical {-}
+
+Let's move on from the physical clues and get into the forensics lab. The chemical analysis of body fluids is where we start generating the hard data. We're moving from "what does it look like?" to "what is it made of?" These quantitative results are powerful. They can pinpoint a specific disease process, differentiate between broad categories of disease, and even tell us about the maturity of an unborn baby. Let's break down the key chemical players in each fluid
+
+## **General Concepts: Protein and Glucose** {-}
+
+Two of the most frequently measured analytes across multiple fluid types are protein and glucose. The key to interpreting them is almost always **comparing the fluid concentration to the plasma concentration**. The body is a system of compartments, and membranes like the blood-brain barrier or the pleural membrane act as gatekeepers. Disease often breaks down these gates, changing the chemical composition of the fluid
+
+## **Fluid-Specific Chemical Analysis** {-}
+
+### **Cerebrospinal Fluid (CSF)** {-}
+
+The chemical analysis of CSF is critical for diagnosing central nervous system diseases, especially meningitis. The blood-brain barrier (BBB) tightly regulates what gets into the CSF, so normal values are very different from plasma
+
+*   **Protein**
+    *   **Physiology & Normal Values:** The BBB keeps large molecules like protein out. Therefore, normal CSF protein is very low, typically **15-45 mg/dL**
+    *   **Clinical Significance (Elevated Protein):** An elevated protein indicates damage to the BBB, allowing protein to leak in from the plasma, or production of protein within the CNS. This is seen in:
+        *   **Meningitis & Abscess:** Inflammation damages the barrier
+        *   **Hemorrhage:** Blood, which is rich in protein, directly enters the CSF space
+        *   **Multiple Sclerosis (MS):** This is a special case. The key finding isn't just elevated total protein, but the presence of **oligoclonal bands**. These are distinct bands of IgG found in the CSF that are *not* present in the patient's serum, indicating that antibody production is happening within the CNS itself
+*   **Glucose**
+    *   **Physiology & Normal Values:** Glucose is actively transported across the BBB. Normal CSF glucose is about **60-70% of the plasma glucose level**. For this reason, **a blood glucose sample must be collected concurrently with the CSF tap for comparison.**
+    *   **Clinical Significance (Decreased Glucose):** Something is consuming the glucose in the CSF! The main culprits are microorganisms and the body's own phagocytic cells
+        *   **Bacterial Meningitis:** This is the classic finding. Bacteria are voracious glucose consumers. CSF glucose is markedly decreased
+        *   **Fungal or Tuberculous Meningitis:** Also associated with decreased glucose
+        *   **Viral Meningitis:** Glucose levels are typically **normal**. This is a key differentiating feature from bacterial meningitis
+*   **Lactate**
+    *   **Physiology & Normal Values:** Lactate is a product of anaerobic metabolism. Normally, levels are low (<25 mg/dL)
+    *   **Clinical Significance (Elevated Lactate):** High levels indicate anaerobic glycolysis, which occurs during tissue hypoxia. In the CNS, this is most often caused by the severe inflammation and reduced blood flow associated with **bacterial, fungal, and tuberculous meningitis**. Levels remain normal in viral meningitis, making it another excellent test to differentiate bacterial from viral causes
+
+### **Serous Fluids (Pleural, Peritoneal, Pericardial)** {-}
+
+The primary goal of chemical testing here is to classify an effusion as either a **transudate** or an **exudate**
+
+*   **Transudate:** Caused by a systemic issue that disrupts hydrostatic or osmotic pressure (e.g., congestive heart failure, cirrhosis). It's essentially an ultrafiltrate of plasma. It is "thin" fluid with low protein and cell counts
+*   **Exudate:** Caused by a localized inflammatory process (e.g., infection, malignancy) that increases the permeability of capillaries in the serous membrane. It is "thick" fluid rich in protein and cells
+
+We use **Light's Criteria** to make this determination. An effusion is an exudate if it meets **at least one** of the following:
+
+*   **Fluid Protein / Serum Protein Ratio > 0.5**
+*   **Fluid LDH / Serum LDH Ratio > 0.6**
+*   **Fluid LDH > 2/3 the upper limit of the normal serum LDH**
+
+Other significant chemical tests include:
+
+*   **Glucose:** Markedly low levels are seen in exudates, especially with bacterial infections (pleural empyema) or rheumatoid inflammation
+*   **Amylase:** High levels in pleural or peritoneal fluid can be a sign of pancreatitis or esophageal rupture
+*   **Triglycerides:** A level > 110 mg/dL confirms a **chylous effusion** (leakage from the lymphatic system)
+
+### **Synovial Fluid** {-}
+
+*   **Glucose:** This is the most important chemical test. Like CSF, it must be compared to a concurrent plasma glucose level
+    *   **Normal:** The glucose level in the joint fluid is similar to plasma, with a difference of <10 mg/dL
+    *   **Clinical Significance (Decreased Glucose):** A large difference (>25-40 mg/dL lower than plasma) is a strong indicator of an active inflammatory or septic process. The inflammatory cells and/or bacteria are consuming the glucose. This is a key finding in **septic arthritis**
+*   **Uric Acid:** Measured to help confirm a diagnosis of **gout**. The fluid uric acid level will be elevated, similar to the serum level
+
+### **Amniotic Fluid** {-}
+
+Chemical testing is all about assessing fetal well-being
+
+*   **Fetal Lung Maturity (FLM):** The most critical testing performed on amniotic fluid. It determines if the fetus is producing enough **surfactants** to prevent the lungs from collapsing after birth (Respiratory Distress Syndrome)
+    *   **Lecithin/Sphingomyelin (L/S) Ratio:** The classic test. Lecithin is a major surfactant that rises sharply at ~35 weeks gestation, while sphingomyelin remains constant. An **L/S ratio ≥ 2.0 indicates mature lungs**
+    *   **Phosphatidylglycerol (PG):** Another key surfactant. Its presence is a strong indicator of lung maturity, even if the L/S ratio is borderline
+    *   **Lamellar Body Count:** Surfactants are stored in these small bodies. They are similar in size to platelets and can be counted on a hematology analyzer's platelet channel. It's a rapid, automated alternative to the L/S ratio
+*   **Bilirubin (ΔA450):** Used to assess the severity of **Hemolytic Disease of the Newborn (HDN)**. We measure the spectrophotometric change in absorbance at 450 nm (where bilirubin peaks) and plot it on a **Liley graph** to determine the level of fetal danger
+
+### **Semen** {-}
+
+*   **Fructose:** The key chemical test. Sperm require fructose for energy. It is produced in the seminal vesicles. A low or absent fructose level in a man with no sperm (azoospermia) suggests there may be a congenital absence of the vas deferens or an obstruction of the ejaculatory duct
+
+### **Feces** {-}
+
+Chemical testing is primarily focused on detecting "unseen" substances
+
+*   **Fecal Occult Blood Testing (FOBT):** A crucial screening test for colorectal cancer, which can cause slow, chronic bleeding that isn't visible
+    *   **Guaiac-based (gFOBT):** Relies on the pseudoperoxidase activity of heme to catalyze a color-change reaction. It's not specific to human blood and can be affected by diet (red meat, some vegetables) and vitamin C
+    *   **Immunochemical (iFOBT or FIT):** Uses antibodies specific to human globin. It is much more specific for bleeding in the lower GI tract and has no dietary restrictions
+*   **Apt Test (for Fetal Hemoglobin):** Differentiates between maternal and fetal blood in a newborn's stool or vomit. The test principle relies on the fact that fetal hemoglobin (Hgb F) is resistant to alkali denaturation, whereas adult hemoglobin (Hgb A) is not. Pink = Fetal blood; Yellow/Brown = Maternal blood
+
+## **Putting It All Together** {-}
+
+The chemical profile of a body fluid rarely tells its story in a vacuum. A single number is just a piece of data. Its true diagnostic power comes from context. Is the CSF glucose of 40 mg/dL low? Not if the patient's plasma glucose is 60. But it's critically low if the plasma glucose is 120. Is the protein in a pleural fluid elevated? Let's check the serum protein and the LDH to see if it meets Light's Criteria for an exudate. Chemical analysis is a game of ratios, comparisons, and understanding the physiological barriers that, in disease, have become compromised

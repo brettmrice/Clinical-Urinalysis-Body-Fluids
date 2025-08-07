@@ -1,0 +1,25 @@
+.book-toc > li:nth-child(2),
+.book-toc > li:nth-child(3),
+.book-toc > li:nth-child(5),
+.book-toc > li:nth-child(8),
+.book-toc > li:nth-child(9),
+.book-toc > li:nth-child(11),
+.book-toc > li:nth-child(12),
+.book-toc > li:nth-child(14),
+.book-toc > li:nth-child(15),
+.book-toc > li:nth-child(16),
+.book-toc > li:nth-child(17),
+.book-toc > li:nth-child(18),
+.book-toc > li:nth-child(19) {
+  padding-left: 10px;
+}
+
+
+
+@media (max-width: 991.98px) {
+  .book-toc > li:nth-child(3),
+  .book-toc > li:nth-child(15),
+  .book-toc > li:nth-child(25) {
+    top: unset;
+  }
+}

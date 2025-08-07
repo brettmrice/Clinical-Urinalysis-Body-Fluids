@@ -1,0 +1,67 @@
+# Specific Gravity/Osmolality {-}
+
+If color and clarity are what your eyes tell you at a glance, specific gravity is the first real measurement of the kidney's hard work. It's a cornerstone of the urinalysis!
+
+## **What is Specific Gravity?** {-}
+
+At its core, **Specific Gravity (SG)** is a measure of the density of urine compared to the density of an equal volume of pure water (which has an SG of 1.000). Why do we care about the density? Because it tells us about the concentration of dissolved solutes (like urea, chloride, sodium, phosphate, etc.) in the urine
+
+This measurement gives us a direct window into two critical functions:
+
+1.  **The patient's hydration status.**
+2.  **The ability of the kidney's renal tubules to concentrate or dilute the glomerular filtrate.**
+
+## **Physiology Behind It All** {-}
+
+To truly understand SG, you have to think about the journey of urine through the nephron. After the blood is filtered in the glomerulus, the resulting fluid (the glomerular filtrate) enters the tubules with an SG of about **1.010**. This number is critical—it's the SG of plasma without proteins
+
+As this filtrate travels through the tubules, the kidneys work their magic based on the body's needs, a process controlled by **Antidiuretic Hormone (ADH)**
+
+*   **When you're dehydrated:** The pituitary gland releases ADH. This hormone tells the collecting ducts to become permeable to water, allowing water to be reabsorbed back into the body. The result? A smaller volume of highly concentrated urine with a **high specific gravity**
+*   **When you're over-hydrated:** ADH secretion is suppressed. The collecting ducts remain impermeable to water. Water is not reabsorbed and is flushed out of the body. The result? A large volume of very dilute urine with a **low specific gravity**
+
+A healthy kidney can produce urine with an SG ranging from as low as 1.002 to as high as 1.035. A normal random specimen typically falls between **1.005 and 1.030**
+
+## **Methods of Measurement** {-}
+
+We have a few tools in our arsenal to measure SG, each with its own principle and limitations
+
+*   **Refractometer**
+    *   **Principle:** This instrument measures the **refractive index** of a solution, which is the ratio of the velocity of light in air to its velocity in the solution. The concentration of dissolved particles directly affects the refractive index
+    *   **Procedure:** A drop of urine is placed on the prism, and you look through the eyepiece to read the SG scale at the sharp line of contrast
+    *   **Corrections:** The refractometer measures *all* solutes. Very high concentrations of large molecules like glucose or protein will falsely elevate the SG. You must correct for these:
+        *   Subtract 0.004 for every 1 g/dL of protein
+        *   Subtract 0.004 for every 1 g/dL of glucose
+    *   **QC:** Calibrated daily with distilled water (should read 1.000) and a known control (e.g., 5% NaCl, which reads 1.022)
+
+*   **Reagent Strip**
+    *   **Principle:** This is the most common method. It does *not* measure density! Instead, it estimates SG based on the **ionic concentration** of the urine. The test pad contains a polyelectrolyte and a pH indicator. As the ionic concentration in the urine increases, it causes protons (H+) to be released from the polyelectrolyte, which lowers the pH on the pad. The indicator dye then changes color based on this pH change
+    *   **Limitations**
+        *   Since it only measures ionic solutes, it is not affected by high concentrations of non-ionic large molecules like glucose or radiographic dye
+        *   **Falsely low readings:** can occur in highly alkaline urine (pH > 6.5) because the indicator system is less effective. Some manufacturers add a correction factor to the color chart
+        *   **Falsely high readings:** can occur with high concentrations of protein due to protein's effect on the pH indicator
+
+*   **Osmolality**
+    *   **Principle:** While SG measures density (influenced by the number *and* size of solutes), osmolality measures only the **number of solute particles** in a solution. It is considered the most accurate measure of the kidney's concentrating ability
+    *   **Measurement:** Performed using an **osmometer**, which typically measures **freezing point depression** or **vapor pressure depression**. The more particles are dissolved, the lower the freezing point of the solution will be compared to pure water
+    *   **Clinical Utility:** Osmolality is especially valuable when SG results are questionable, such as in patients with high levels of glucose, protein, or after receiving radiographic dyes. The normal urine-to-serum osmolality ratio is about 1:1 to 3:1
+
+## **Clinical Significance: Interpreting the Results** {-}
+
+*   **High Specific Gravity (Hypersthenuria):** An SG > 1.030
+    *   **Common Causes:** Dehydration from fever, vomiting, or diarrhea; first morning specimen
+    *   **Pathologic Causes:** Uncontrolled **Diabetes Mellitus** (due to high glucose), **Nephrotic Syndrome** (due to high protein), and presence of radiographic dye (which gives an artificially high reading of 1.035 or more on the refractometer)
+
+*   **Low Specific Gravity (Hyposthenuria):** An SG < 1.010
+    *   **Common Causes:** High fluid intake, diuretic use
+    *   **Pathologic Causes:** The classic cause is **Diabetes Insipidus**, a disease characterized by a lack of ADH production or the kidney's inability to respond to it. Patients produce large volumes of very dilute urine, even when dehydrated. It can also be seen in some cases of renal tubular damage
+
+*   **Fixed Specific Gravity (Isosthenuria):** This is a critical finding
+    *   **What it is:** When the SG of the urine remains fixed at **1.010** across multiple specimens, regardless of the patient's hydration status
+    *   **What it means:** This indicates severe renal damage. The kidneys have lost all ability to concentrate or dilute the urine. The urine being excreted has the same SG as the original plasma filtrate, meaning the tubules are doing no work at all. This is a hallmark of **end-stage renal disease**
+
+## **Putting It All Together: A Report Card on Renal Function** {-}
+
+Think of specific gravity as a direct "report card" on the kidney's ability to perform its most fundamental job: managing the body's water balance. It reflects the hormonal command of **Antidiuretic Hormone (ADH)** in action. A healthy kidney is flexible, producing a high SG when dehydrated and a low SG when overhydrated, demonstrating a full range of function
+
+However, the most critical story specific gravity tells is when it *doesn't* change. A urine SG that remains frozen at **1.010**, the same concentration as the original plasma filtrate, is known as **isosthenuria**. This is a grave sign. It means the renal tubules have completely lost their power to concentrate or dilute urine, providing a clear and stark window into severe renal damage and end-stage disease. Therefore, this single measurement goes beyond simple hydration—it assesses the very essence of tubular function

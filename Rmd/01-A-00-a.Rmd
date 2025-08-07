@@ -1,0 +1,68 @@
+# Color & Clarity {-}
+
+The color of urine is primarily determined by the concentration of a pigment called **urochrome**. The more concentrated the urine, the more urochrome is present, and the darker the yellow color will be. The normal color of urine can range from pale straw or colorless (very dilute) to a deep yellow or amber (very concentrated). The amount of urochrome produced is generally constant, so the intensity of the color gives us a rough estimate of the patient's hydration status and the urine concentration
+
+## **Urine Color** {-}
+
+While yellow is the norm, a whole spectrum of colors can appear in a patient's urine, pointing to various metabolic processes, diseases, medications, or even diet
+
+Here are the common colors you'll encounter and their clinical significance:
+
+*   **Colorless to Pale Straw**
+    *   **Common Causes:** Recent fluid consumption (high fluid intake), diuretic medications
+    *   **Pathologic Significance:** Can be seen in patients with **Diabetes Mellitus** (due to polyuria and glucosuria, which increases specific gravity despite the pale color) or **Diabetes Insipidus** (decreased ADH leads to polyuria and a very low specific gravity)
+
+*   **Dark Yellow to Amber**
+    *   **Common Causes:** Dehydration (from fever, strenuous exercise, low fluid intake), first morning specimen. This is simply a very concentrated, normal urine
+    *   **Pathologic Significance:** If the urine is amber and forms a yellow foam when shaken, it strongly suggests the presence of **bilirubin**. Bilirubin can be an early indicator of liver disease or biliary obstruction
+
+*   **Orange**
+    *   **Common Causes:** The number one cause you'll see is the drug **phenazopyridine (Pyridium or Azo)**, a common urinary tract analgesic. This drug produces a thick, bright orange pigment that can interfere with reagent strip readings! High doses of Vitamin C can also impart an orange hue
+    *   **Pathologic Significance:** As mentioned above, a yellow-orange color can be due to bilirubin
+
+*   **Red, Pink, or Brown:** This color is a critical finding and demands careful investigation
+    *   **Cloudy Red/Pink:** This usually indicates the presence of intact red blood cells (**hematuria**). Causes include kidney stones, urinary tract infections (UTIs), tumors, or glomerular disease
+    *   **Clear Red/Pink:** This suggests the presence of either **hemoglobin** (from lysed RBCs, indicating intravascular hemolysis) or **myoglobin** (from muscle damage/rhabdomyolysis). The lab must differentiate these two!
+    *   **Non-Pathologic Causes:** Don't forget diet! Consumption of beets or blackberries can cause a benign red color in the urine. Certain medications, like rifampin, can also be the culprit
+    *   **Brown/Black on standing:** This can be due to **methemoglobin**, which is oxidized hemoglobin seen in acidic urine after it has been sitting for a while
+
+*   **Brown or Black**
+    *   **Pathologic Significance:** A urine that darkens to a brown or black color upon standing can be a classic sign of **alkaptonuria** (a rare genetic disease where homogentisic acid accumulates). It can also indicate the presence of **melanin**, which is associated with malignant melanoma
+
+*   **Blue or Green**
+    *   **Pathologic Significance:** Most commonly associated with bacterial infections, particularly from **Pseudomonas species**
+    *   **Non-Pathologic Causes:** Often caused by medications (amitriptyline, methocarbamol) or ingested dyes (methylene blue)
+
+## **Urine Clarity** {-}
+
+Clarity, also known as turbidity, refers to the transparency of the specimen. It should be observed by looking through a mixed specimen in a clear container held against a white background with text. Clarity provides clues about the presence of suspended solid material
+
+Standard terms used for reporting clarity are:
+
+*   **Clear:** No visible particles; transparent. (Normal)
+*   **Hazy:** A few visible particles; newsprint is not distorted when viewed through the urine
+*   **Cloudy:** Many visible particles; newsprint is blurry
+*   **Turbid:** Opaque; newsprint cannot be seen through the urine
+*   **Milky:** May precipitate or be clotted
+
+A fresh, normal urine specimen should be clear. Cloudiness that develops after the urine sits for a while, especially if refrigerated, is often non-pathologic. However, a freshly voided urine that is not clear is a significant finding that needs to be correlated with the microscopic exam
+
+Here are the common causes of turbidity:
+
+*   **Non-Pathologic Causes**
+    *   **Squamous epithelial cells and mucus:** Especially common in female specimens
+    *   **Amorphous crystals:** Amorphous **urates** form a pinkish "brick dust" precipitate in acidic, refrigerated urine. Amorphous **phosphates** form a white precipitate in alkaline, refrigerated urine
+    *   **Contaminants:** Semen, fecal matter, radiographic dye, powders, and creams
+
+*   **Pathologic Causes**
+    *   **White Blood Cells (WBCs):** A primary cause of cloudiness, indicating infection or inflammation (**pyuria**)
+    *   **Red Blood Cells (RBCs):** Will make the urine cloudy as well as red
+    *   **Bacteria:** A uniform haze or cloudiness that does not settle out suggests a UTI
+    *   **Yeast:** Often appears as a hazy or cloudy specimen, sometimes with a slightly sweet or bready odor
+    *   **Non-squamous epithelial cells:** Renal tubular or transitional cells
+    *   **Abnormal crystals:** Such as cystine, leucine, or tyrosine
+    *   **Lipids:** Gives the urine a milky appearance (**lipiduria**), which can be associated with the nephrotic syndrome
+
+## **Putting It All Together** {-}
+
+The physical exam is your roadmap. A **red, cloudy** urine tells you to be on the lookout for **RBCs** in your microscopic exam. A **clear, red** urine points you towards chemical tests to differentiate hemoglobin from myoglobin. A **hazy, amber** urine with a **positive bilirubin** test strongly suggests liver issues. By carefully observing color and clarity, you're already beginning your diagnostic investigation before the first reagent strip is even dipped!

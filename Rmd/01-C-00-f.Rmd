@@ -1,0 +1,83 @@
+# Artifacts {-}
+
+We've discussed the things that fall *into* the cup (contaminants), and now we must discuss the "ghosts" created by our own process and equipment: **artifacts**
+
+While a contaminant is a real object from outside the patient's urinary tract, an artifact is an illusion. It's a feature that appears during the preparation or examination of the slide that was **not** present in the original urine specimen. Recognizing these is just as crucial as identifying contaminants, because you can't report on something that isn't really there! This is all about mastering your tools and technique
+
+Let's investigate these phantoms of the urinalysis microscope
+
+## **Common Artifacts in Urine Sediment** {-}
+
+### **Air Bubbles** {-}
+
+These are the most common and most classic of all microscopic artifacts
+
+*   **Description:** Typically appear as perfect, colorless circles with a very distinct, dark, and thick outer border. They are highly refractile, meaning they appear bright and almost "shiny" as you focus up and down. They can vary dramatically in size, from tiny bubbles that can mimic RBCs to huge ones that take up a large portion of the field
+*   **Origin:** Created during the slide preparation process, most commonly by trapping air under the coverslip when it's placed on the drop of sediment
+*   **The Look-Alike Problem:** Small air bubbles are classic look-alikes for **Red Blood Cells (RBCs)**
+*   **How to Differentiate**
+    *   **Refractility:** Air bubbles are far more refractile than RBCs. They will "pop" in and out of focus with a bright halo
+    *   **Border:** The border of an air bubble is thick and dark. The membrane of an RBC is delicate and much fainter
+    *   **Uniformity:** RBCs in a field will be relatively uniform in size. Air bubbles will be of all different sizes
+    *   **"Focus Through":** Use your fine adjustment knob. As you focus up and down, the air bubble's border and center will change dramatically. An RBC will simply fade in and out of focus more gently
+
+### **Oil Droplets** {-}
+
+These are another frequent visitor, often causing confusion with pathologically significant elements
+
+*   **Description:** Appear as round, highly refractile spheres of varying sizes. They can look very similar to air bubbles but may have a less defined or "softer" border
+*   **Origin:** Can be introduced from two main sources:
+    *   **From the patient/specimen:** Contamination from lotions, creams, or catheter lubricants. (In this sense, it can be both a contaminant *and* an artifact in appearance)
+    *   **From the lab environment:** Immersion oil from the microscope (a big culprit!) can be transferred to slides
+*   **The Look-Alike Problem:** Oil droplets are notorious look-alikes for **RBCs**, **yeast**, and most importantly, free-floating **fat globules** or **oval fat bodies**, which are pathologically significant
+*   **How to Differentiate**
+    *   **Refractility & Size:** Like air bubbles, they are highly refractile and vary in size, unlike the more uniform RBCs
+    *   **Context is King:** This is the most important differentiator from fat globules. Pathologic lipids (fat globules, oval fat bodies, fatty casts) are seen in the context of **Nephrotic Syndrome**. You would expect to see **heavy proteinuria (3+ or 4+)** on the reagent strip. If the protein is negative or trace, the refractile spheres are almost certainly artifactual oil droplets
+
+### **Glass Fragments and Scratches** {-}
+
+Your microscope slide and coverslip can sometimes be the source of confusion themselves
+
+*   **Description**
+    *   **Scratches:** Appear as straight lines or linear defects in the glass. They remain in a single plane of focus and will often appear to be "above" or "below" the sediment
+    *   **Glass Fragments:** From a chipped slide or a broken coverslip, these will have very sharp, defined, geometric edges
+*   **Origin:** Scratched or poor-quality glassware
+*   **The Look-Alike Problem:** A scratch can sometimes be mistaken for a cast. A glass fragment can sometimes be mistaken for an abnormal crystal, like a **cholesterol plate**
+*   **How to Differentiate**
+    *   Artifacts of the glass will often extend beyond the edge of your field of view as you move the stage
+    *   A scratch is usually very straight and "un-biological" looking compared to the parallel sides and rounded ends of a cast
+    *   A glass fragment has much sharper, clearer edges than a crystal, which has a more three-dimensional structure
+
+### **Stain Precipitate** {-}
+
+If you are using a sediment stain like the Sternheimer-Malbin stain, the stain itself can create artifacts
+
+*   **Description:** Appears as fine, amorphous, often purplish or dark blue granules or clumps
+*   **Origin:** Occurs when the stain is old, has not been filtered properly, or has begun to precipitate out of solution
+*   **The Look-Alike Problem:** Stain precipitate is very commonly misidentified as **bacteria (cocci)** or sometimes amorphous crystals
+*   **How to Differentiate**
+    *   **Focal Plane:** Stain precipitate is often on a different focal plane from the cellular elements; it looks like it's floating above them
+    *   **Color:** It will have the distinct color of the stain being used
+    *   **No Motility:** Unlike bacteria, it will not be motile
+    *   **Location:** It will be present everywhere in the field, not just clustered with WBCs
+
+## **Golden Rules of Artifact Hunting** {-}
+
+To avoid being fooled by these phantoms, always remember these key principles:
+
+*   **Vary Your Focus:** Constantly use your fine adjustment knob. The way an object changes as you focus through it is a primary clue to its identity
+*   **Check for Uniformity:** Biological elements (like RBCs) tend to be relatively uniform in size. Artifacts are often highly variable
+*   **Assess Refractility:** Artifacts like air bubbles and oil droplets are almost always more refractile than any cellular component
+*   **Consider the Clinical Context:** Does the finding make sense? Would you expect to see fat globules if the protein is negative? Unlikely. Correlation with the physical and chemical results is your best defense against misinterpretation
+
+## **Putting It All Together: Don't Get Fooled by Phantoms** {-}
+
+If contaminants are the clutter that falls into the cup, artifacts are the **phantoms of the microscope**—the optical illusions created by our own process and equipment. Mastering your craft means learning to spot these ghosts and not fall into their classic traps
+
+This skill is tested daily at the bench:
+
+*   Distinguishing the highly refractile, dark-bordered **air bubble:** from a delicate **RBC**
+*   Differentiating an **oil droplet:** from a pathologic **fat globule** by running a quick "sanity check"—is there high protein on the dipstick to suggest nephrotic syndrome?
+*   Recognizing that the perfectly straight **scratch on the slide:** is not a **cast**, or that the amorphous purple blobs are just **stain precipitate**, not bacteria
+
+Your best defenses against these illusions are your fine adjustment knob and a healthy dose of clinical correlation. Recognizing an artifact is a mark of a disciplined scientist. It proves you trust what you see but verify with what you know, ensuring you only report what is truly there and not the phantoms in the machine

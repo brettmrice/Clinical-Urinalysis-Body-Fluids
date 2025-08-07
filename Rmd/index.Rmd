@@ -1,0 +1,62 @@
+---
+title: "UABF"
+author: "Brett M. Rice"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::bs4_book
+documentclass: book
+description: |
+  Information intended to assist preparation for Clinical Urinalysis and Body Fluids content on ASCP BOC's MLT and MLS certification exams
+---
+
+# **About** {-}
+
+Information intended to assist preparation for Clinical Urinalysis and Body Fluids content on <a href="https://www.ascp.org/content/board-of-certification/get-credentialed" target="_blank">ASCP BOC's</a> certification exam Content Guidelines for the MLT and MLS certification exams
+
+You are recommend to use this information as a supplement to the "Reading List" cited  by the <a href="https://www.ascp.org/content/board-of-certification/get-credentialed" target="_blank">ASCP BOC</a> for the MLT and MLS certifications
+
+* <a href="https://www.ascp.org/content/board-of-certification/get-credentialed#us-certifications" target="_blank">Medical Laboratory Technician, MLT(ASCP)</a>
+* <a href="https://www.ascp.org/content/board-of-certification/get-credentialed#us-certifications" target="_blank">Medical Laboratory Scientist, MLS(ASCP)</a>
+
+## **Certification Prerequisites** {-}
+
+### MLT Certification {-}
+
+Source: <a href="https://www.ascp.org/content/board-of-certification/get-credentialed#" target="_blank">Eligibility Routes for Medical Laboratory Scientist, MLS(ASCP)</a>
+
+*   **Route 1**
+    *   Associate degree from an accredited (regionally or nationally) college/university OR 60 semester hours (90 quarter hours) of academic credit from an accredited (regionally or nationally) college/university,
+    *   AND successful completion of a NAACLS or ABHES accredited MLT program within the last five years
+*   **Route 2**
+    *   Discontinued
+*   **Route 3**
+    *   Associate degree from an accredited (regionally or nationally) college/university with 6 semester hours (9 quarter hours) in chemistry and 6 semester hours (9 quarter hours) in biology which may be obtained within, or in addition to, the associate degree, OR 60 semester hours (90 quarter hours) of academic credit from an accredited (regionally or nationally) college/university with 6 semester hours (9 quarter hours) in chemistry and 6 semester hours (9 quarter hours) in biology,
+    *   AND successful completion of a 50 week U.S. military medical laboratory training course within the last ten years
+*   **Route 4**
+    *   Associate degree from an accredited (regionally or nationally) college/university with 6 semester hours (9 quarter hours) in chemistry and 6 semester hours (9 quarter hours) in biology which may be obtained within, or in addition to, the associate degree, OR 60 semester hours (90 quarter hours) of academic credit from an accredited (regionally or nationally) college/university with 6 semester hours (9 quarter hours) in chemistry and 6 semester hours (9 quarter hours) in biology,
+    *   AND three years of full time acceptable clinical experience in blood banking, chemistry, hematology, microbiology, immunology, and urinalysis/body fluids in an acceptable laboratory within the last six years
+
+### MLS Certification {-}
+
+Source: <a href="https://www.ascp.org/content/board-of-certification/get-credentialed#" target="_blank">Eligibility Routes for Medical Laboratory Scientist, MLS(ASCP)</a>
+
+*   **Route 1**
+    *   Baccalaureate degree from an accredited (regionally or nationally)* college/university including biology and chemistry courses,
+    *   AND successful completion of a NAACLS accredited Medical Laboratory Scientist program within the last five years
+*   **Route 2**
+    *   Valid MLT(ASCP) certification,
+    *   AND a baccalaureate degree from an accredited (regionally or nationally) college/university with 16 semester hours (24 quarter hours) in biology including one semester in microbiology and 16 semester hours (24 quarter hours) in chemistry including one semester in organic or biochemistry, which may be obtained within, or in addition to, the baccalaureate degree,
+    *   AND two years of full time acceptable clinical experience in blood banking, chemistry, hematology, microbiology, immunology, and urinalysis/body fluids in an acceptable laboratory within the last five years
+*   **Route 3**
+    *   Discontinued
+*   **Route 4**
+    *   Baccalaureate degree from an accredited (regionally or nationally) college/university with 16 semester hours (24 quarter hours) in biology including one semester in microbiology and 16 semester hours (24 quarter hours) in chemistry including one semester in organic or biochemistry, which may be obtained within, or in addition to, the baccalaureate degree, 
+    *   AND five years of full time acceptable clinical experience in blood banking, chemistry, hematology, microbiology, immunology, and urinalysis/body fluids in an acceptable laboratory within the last ten years
+*   **Route 5**
+    *   Valid MLS(ASCPi) certification,
+    *   AND a transcript evaluation verifying equivalency to a U.S. baccalaureate degree from a regionally accredited college/university,
+    *   AND five years of full time acceptable clinical experience in blood banking, chemistry, hematology, microbiology, immunology, and urinalysis/body fluids in an acceptable laboratory within the last ten years
+*   **Route 6**
+    *   Successful completion of a 50 week U.S. military medical laboratory training course within the last ten years,
+    *   AND a baccalaureate degree from a regionally accredited college/university with 16 semester hours (24 quarter hours) in biology including one semester in microbiology and 16 semester hours (24 quarter hours) in chemistry, which may be obtained within, or in addition to, the baccalaureate degree,
+    *   AND one year of full time acceptable clinical experience in blood banking, chemistry, hematology, microbiology, immunology, and urinalysis/body fluids in an acceptable laboratory within the last ten years

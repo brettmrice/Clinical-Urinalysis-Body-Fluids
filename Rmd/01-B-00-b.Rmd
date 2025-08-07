@@ -1,0 +1,66 @@
+# Confirmatory Tests {-}
+
+Knowing when and why to move beyond the reagent strip is a hallmark of a skilled laboratory scientist. The reagent strip is our rapid screening tool, but the confirmatory tests are our specialists, brought in to verify results and provide a deeper, more accurate picture
+
+## **Role of Confirmatory Testing** {-}
+
+The reagent strip is a fantastic screening device, but it has limitations. Interferences can cause false positives or false negatives, and the strip may not be sensitive enough for certain critical analytes. Confirmatory tests serve as a vital "second opinion." They are performed for several key reasons:
+
+*   To confirm a positive screening result, especially if it's unexpected
+*   To use a different chemical principle, thus avoiding the interferences that may have affected the reagent strip
+*   To provide a more sensitive or specific result for a particular substance
+*   To detect substances that the reagent strip cannot (e.g., non-albumin proteins or non-glucose reducing sugars)
+
+## **Protein Confirmation: The SSA Test** {-}
+
+*   **The Confirmatory Test For:** Protein
+*   **Test Name:** **Sulfosalicylic Acid (SSA) Precipitation Test**
+*   **Principle:** This test relies on **acid precipitation**. When SSA is added to urine containing protein, the acid causes the protein to denature and precipitate out of solution, creating visible turbidity. The degree of turbidity is directly proportional to the amount of protein present. This is a different principle than the strip's "protein error of indicators."
+*   **When to Perform (Clinical Utility)**
+    *   To confirm any positive protein result from the reagent strip
+    *   **Crucially**, to detect proteins other than albumin. The reagent strip is most sensitive to albumin. The SSA test will precipitate **all proteins**, including globulins and the **Bence-Jones protein:** seen in patients with Multiple Myeloma, which the strip may miss
+    *   When the urine pH is highly alkaline (>8.0), which can cause a false positive on the strip
+*   **Brief Procedure:** Equal amounts of centrifuged urine supernatant and 3% SSA are mixed. The tube is inverted, allowed to sit, and then graded for turbidity (from trace to 4+) against a printed background
+*   **Interferences**
+    *   **False Positives:** The most common causes are **radiographic dyes** (from X-ray contrast media) and certain medications like penicillins, cephalosporins, and sulfonamides, which can also precipitate in acid
+    *   **False Negatives:** Can occur in highly buffered alkaline urine that neutralizes the acid, preventing precipitation
+
+## **Ketone Confirmation: The Acetest** {-}
+
+*   **The Confirmatory Test For:** Ketones
+*   **Test Name:** **Acetest Tablet Test**
+*   **Principle:** This tablet test uses the same chemical reaction as the reagent strip: **sodium nitroprusside** reacts with **acetoacetic acid** (and to a lesser extent, acetone) in an alkaline medium to produce a purple color
+*   **When to Perform (Clinical Utility)**
+    *   To confirm a weakly positive or questionable ketone result from the reagent strip
+    *   The test is more sensitive than some older reagent strips
+    *   It can be used to test for ketones in other body fluids like serum, plasma, or whole blood, which is its primary advantage over the urine-only strip
+*   **Brief Procedure:** A drop of urine is placed on the tablet. After a specified time, the color of the tablet is compared to a color chart
+*   **Interferences:** Same as the reagent strip. False positives can occur from highly pigmented urine or from certain medications
+
+## **Bilirubin Confirmation: The Ictotest** {-}
+
+*   **The Confirmatory Test For:** Bilirubin
+*   **Test Name:** **Ictotest Tablet Test**
+*   **Principle:** This test also uses a **diazo reaction**, similar to the strip, but in a different format that increases its sensitivity and specificity. Bilirubin from the urine is concentrated on the surface of a special absorbent mat. A diazonium salt tablet is placed on the mat, and water is added. If bilirubin is present, it will couple with the salt to produce a **blue to purple color**
+*   **When to Perform (Clinical Utility)**
+    *   **This is a very common and important confirmatory test.:** It is significantly **more sensitive** (detecting as little as 0.05 mg/dL of bilirubin) than the reagent strip
+    *   To confirm any positive bilirubin result
+    *   To test a specimen when bilirubin is suspected but the strip is negative (e.g., the urine is dark amber, the patient has known liver disease). This is because bilirubin is unstable and can degrade in light, potentially causing a false negative on the less sensitive strip
+*   **Brief Procedure:** Ten drops of urine are placed on the special absorbent mat. The Ictotest tablet is placed in the center of the moistened area. Two drops of water are added to the tablet. The mat is observed for the appearance of a blue/purple color
+*   **Interferences:** Very few. The test is highly specific. False positives can occur from pigmented urine if the color runs onto the mat, but a true positive is a distinct color that forms *on the mat* under the tablet
+
+## **Reducing Sugars (Glucose) Confirmation: The Clinitest** {-}
+
+*   **The Confirmatory Test For:** Reducing Sugars
+*   **Test Name:** **Clinitest (Copper Reduction Test)**
+*   **Principle:** This is a classic test based on **copper reduction**. In the presence of heat and alkali, any reducing sugar will reduce cupric sulfate (blue) in the tablet to cuprous oxide (green to reddish-orange). Unlike the reagent strip which uses the **glucose oxidase** enzyme and is **specific for glucose**, the Clinitest is **non-specific** and will react with glucose, fructose, lactose, maltose, and most importantly, **galactose**
+*   **When to Perform (Clinical Utility)**
+    *   **The primary modern use of Clinitest is NOT to confirm glucose.**
+    *   Its sole, critical application today is in **newborn and infant screening:** to detect **inborn errors of carbohydrate metabolism**. The most important of these is **galactosemia**, a condition where infants lack the enzyme to metabolize galactose. This can lead to severe developmental issues if not caught early
+    *   A **critical result pattern:** is a **negative glucose** on the reagent strip with a **positive Clinitest**. This suggests the presence of a non-glucose reducing sugar, like galactose, and is a medical alert
+*   **Brief Procedure & "Pass-Through" Phenomenon:** A specific number of urine drops and water are added to a tube, followed by the Clinitest tablet. The mixture will boil from a chemical reaction
+    *   **Crucial Note:** You must watch the reaction closely for the **"pass-through" phenomenon.** If a very high amount of sugar is present, the color will rapidly go through green, yellow, and orange to a dirty brown, and then may revert back to a greenish-brown. If you don't observe the reaction from the beginning, you could miss the peak color and report a falsely low result
+
+## **Putting It All Together** {-}
+
+Think of the chemical exam as a two-stage investigation. The reagent strip is the patrol officer making the initial assessment—it's fast, broad, and good at spotting trouble. The confirmatory test is the detective called to the scene. This specialist uses different, often more sensitive and specific techniques to verify the initial report, rule out mistaken identity (interferences), and uncover hidden evidence (like non-glucose sugars). This rigorous, two-step process ensures that the chemical story we tell the physician is as accurate and reliable as possible, forming a solid foundation for patient diagnosis and care
