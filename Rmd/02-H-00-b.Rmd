@@ -1,0 +1,88 @@
+# Collection & Handling {-}
+
+We have just established the physiological foundation of the vaginal ecosystem, understanding it as a delicate, hormonally-driven balance. We must now turn to the most practical and, arguably, the most critical part of our investigation: the collection and handling of the vaginal secretion specimen
+
+This is a unique pre-analytical challenge. Unlike a blood draw, the collection is often performed by a clinician at the point of care, and the most critical findings are highly perishable. The single most important organism we search for, *Trichomonas vaginalis*, is a fragile protozoan whose characteristic motility - the key to its identification - can be lost within minutes of collection if handled improperly
+
+Therefore, "garbage in, garbage out" has never been more true. A flawless microscopic examination of a poorly collected or delayed sample is a futile exercise that will lead to a false-negative result and a failure to treat a patient's infection. Our role as laboratory scientists is to be the experts who guide this process, providing the right tools and the right knowledge to ensure that the specimen we receive is a true and viable representation of the patient's vaginal health
+
+## **Purpose: The "Vaginitis Panel"** {-}
+
+The collection is almost always aimed at diagnosing the cause of vaginitis, focusing on the "big three" common culprits:
+1.  **Bacterial Vaginosis (BV)**
+2.  **Vulvovaginal Candidiasis (VVC, or "yeast infection")**
+3.  **Trichomoniasis**
+
+A single collection event must yield enough sample for all the necessary point-of-care and laboratory tests
+
+## **Collection Supplies: Right Tools for the Job** {-}
+
+Using the correct supplies is non-negotiable
+
+*   **Speculum:** A non-lubricated or water-lubricated speculum is used to visualize the vaginal walls and cervix. **Gels and lubricants must be avoided** as they are often bacteriostatic and can interfere with microscopy
+*   **Swabs:** **Dacron or rayon-tipped swabs on plastic shafts** are required
+    *   **CRITICAL: Do NOT use cotton-tipped swabs.:** Cotton fibers are toxic to *Trichomonas vaginalis* and can interfere with certain molecular tests
+    *   **Do NOT use wooden-shafted swabs.:** The wood can contain resins that are inhibitory to some organisms and can interfere with PCR assays
+*   **Glass Microscope Slides:** For immediate bedside preparation
+*   **pH Paper:** A narrow-range (e.g., 3.0-5.5) pH paper is essential for accurate measurement
+*   **Reagents for Bedside Testing:** 0.85% Saline (for wet mount), 10% Potassium Hydroxide (KOH) (for Whiff test and KOH prep)
+*   **Transport Media:** Appropriate media for culture or Nucleic Acid Amplification Tests (NAATs) if being sent to the lab
+
+## **Collection Procedure (Clinician-Performed)** {-}
+
+This is a precise, multi-step process. The order is critical
+
+1.  **Step 1: Visualize and Assess pH (The FIRST Step)**
+    *   After inserting the speculum, the clinician uses a dry swab to collect a sample of the vaginal fluid from the posterior fornix or the vaginal pool
+    *   The swab is then immediately rolled onto the pH paper
+    *   **Rationale:** The pH must be measured **before** any contact with saline or other reagents, as these will buffer the sample and give a falsely normal pH reading
+
+2.  **Step 2: Collect the Specimen**
+    *   Using one or two new swabs, a generous sample of the vaginal discharge is collected from the vaginal pool. The swabs are rotated against the vaginal wall to collect epithelial cells
+
+3.  **Step 3: Immediate Slide Preparation (The MOST Time-Sensitive Step)**
+    *   **This is the core of the pre-analytical process.:** The collected material must be immediately used to prepare two slides at the bedside
+    *   **The Saline Wet Mount:** One swab is immediately emulsified in a drop of room-temperature 0.85% saline on a slide, and a coverslip is applied. This slide is for the immediate microscopic search for **motile trichomonads**, clue cells, and WBCs
+    *   **The KOH Prep:** The second swab is emulsified in a drop of 10% KOH on another slide, and a coverslip is applied. This slide is for the microscopic search for yeast buds and pseudohyphae
+
+4.  **Step 4: The Amine ("Whiff") Test**
+    *   **This is performed immediately after preparing the KOH prep.:** The clinician brings the KOH slide close to their nose and sniffs it
+    *   **Rationale:** The 10% KOH is a strong base. It raises the pH of the sample dramatically, which volatilizes the amines (putrescine, cadaverine) produced by the anaerobic bacteria in Bacterial Vaginosis, releasing a characteristic **"fishy" odor.** A positive Whiff test is a classic sign of BV
+
+5.  **Step 5: Inoculate Transport Systems**
+    *   If additional testing (e.g., yeast culture, NAATs for *Trichomonas* or a BV panel) is required, a third swab is used to inoculate the specific transport medium provided by the laboratory
+
+## **Specialized Collections** {-}
+
+*   **Group B Streptococcus (GBS) Screening:** This is a crucial screening test in late-stage pregnancy. The collection is different. It requires a **vagino-rectal swab** the swab is first inserted into the lower vagina and then inserted into the rectum. The swab is then placed into a specific transport medium (like Amies or Stuart's) to preserve the bacteria for culture
+*   **Nucleic Acid Amplification Tests (NAATs):** These are highly sensitive molecular tests for organisms like *Trichomonas*, *Candida* species, and the bacteria associated with BV. They are also the gold standard for STIs like *Chlamydia* and *Gonorrhea*
+    *   These tests require a specific, lab-provided collection kit with a designated swab and transport medium
+    *   **Self-Collection:** A major advantage of NAATs is that they are highly effective with **patient-collected vaginal swabs.** This improves patient comfort and access to testing. The patient is given a kit with clear instructions on how to insert the swab into the vagina, rotate it, and place it in the transport tube
+
+## **Transport & Handling: Race Against Viability** {-}
+
+### **STAT Priority: *Trichomonas* Motility** {-}
+
+*   **Urgency:** The saline wet mount for *Trichomonas* detection is a **STAT test.** It should ideally be examined by an experienced microscopist **within minutes** of collection at the point of care
+*   **Time Limit:** If sent to the lab, the unpreserved swab or prepared wet mount must be analyzed within **1-2 hours maximum.** After this, the characteristic jerky motility is lost, and the organism becomes very difficult to differentiate from a white blood cell, leading to false negatives
+*   **Temperature:** The specimen must be maintained and transported at **ROOM TEMPERATURE.**
+    *   **Do NOT refrigerate!:** Refrigeration will rapidly kill *Trichomonas vaginalis* and render it non-motile
+
+### **General Handling** {-}
+
+*   Slides should be protected from drying out. A "moisture chamber" (a petri dish with a moist paper towel) can be used for transport to the lab
+*   Swabs for culture or NAATs should be transported according to the specific manufacturer's or laboratory's instructions, but this is typically at room temperature
+
+## **Specimen Rejection Criteria** {-}
+
+The lab must act as the final quality gatekeeper. A specimen should be rejected if:
+
+*   **Improper Swab:** A cotton or wooden-shafted swab is received for *Trichomonas* or NAAT testing
+*   **Dry Swab:** A swab for wet mount or culture arrives completely dry
+*   **Excessive Delay:** A sample for *Trichomonas* motility testing is received more than 2 hours after collection
+*   **Improper Temperature:** A sample for *Trichomonas* is received on ice
+*   **Unlabeled or Mislabeled:** As with any specimen, this is an absolute cause for rejection
+
+## **Conclusion** {-}
+
+The pre-analytical phase for vaginal secretions is a model of the crucial partnership between the clinic and the laboratory. Success hinges on using the correct tools, following a precise order of operations, and, above all, respecting the extreme fragility of our most important diagnostic target: the motile trichomonad. By mastering these principles, we ensure that the microscopic and molecular tests we perform provide a true and accurate assessment of the vaginal ecosystem, leading to the correct diagnosis and effective treatment for the patient

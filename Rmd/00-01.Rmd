@@ -21,6 +21,7 @@ Major content areas covered:
 *   [Semen](semen.html)
 *   [Amniotic](amniotic.html)
 *   [Feces](feces.html)
+*   [Vaginal Secretions](vaginal-secretions.html)
 
 ## Last Updated {-}
 
