@@ -1,0 +1,103 @@
+# Collection & Handling {-}
+
+We've discussed the elegant physiology of serous fluids. Now we must address the practical realities of handling them. Unlike a routine blood draw, which can be easily repeated, the collection of serous fluid is an invasive medical procedure
+
+*   **Thoracentesis:** (Pleural)
+*   **Paracentesis:** (Peritoneal)
+*   **Pericardiocentesis:** (Pericardial)
+
+These procedures carry risks for the patient, including bleeding, infection, and organ puncture. Therefore, the fluid we receive is valuable, limited, and often irreplaceable. There is no "short sample, please recollect." We have one chance to get it right. Our responsibility as laboratory scientists begins not when the sample is placed on our analyzer, but the moment the clinician decides to perform the procedure. We must ensure they have the right collection tubes and that the sample is handled with the utmost care from the bedside to the bench
+
+## **Collection Kit: Assembling the Right Tools** {-}
+
+The laboratory often provides or recommends the tubes for collection. A well-thought-out collection strategy ensures that every department gets an optimal sample without compromising another department's tests
+
+### **Ideal Tube Allocation** {-}
+
+*   **EDTA (Lavender Top)**
+    *   **Department:** Hematology
+    *   **Primary Tests:** Total Cell Count, WBC Differential, Cytology
+    *   **Rationale & Critical Considerations:** This tube is **required.** EDTA is the best anticoagulant for preserving cell morphology and preventing clotting. **Never use a heparinized tube for a differential**; heparin can cause WBC clumping and interfere with Wright's staining, making an accurate differential impossible
+
+*   **Sterile Heparin or SPS (Green or Yellow Top)**
+    *   **Department:** Microbiology
+    *   **Primary Tests:** Gram Stain, Bacterial/Fungal/AFB Cultures
+    *   **Rationale & Critical Considerations:** This tube is **required.** It must be collected aseptically. **EDTA is bacteriostatic and should not be used.** Sodium Polyanethol Sulfonate (SPS) is preferred as it is also anti-complementary and anti-phagocytic, improving bacterial recovery
+
+*   **No Anticoagulant (Red Top or Sterile Container)**
+    *   **Department:** Chemistry / Serology
+    *   **Primary Tests:** LDH, Protein, Glucose, Amylase, pH, Triglycerides, Tumor Markers, etc
+    *   **Rationale & Critical Considerations:** This tube is **required.** This prevents anticoagulant interference with chemical assays. **It is critical to observe this sample for a spontaneous clot.** An exudate, with its high fibrinogen content, will often clot, whereas a transudate will not. This is a key diagnostic clue
+
+**Summary of Priorities:** If volume is limited (a "short tap"), the prioritization must be communicated to the clinician. Typically, microbiology and hematology (cell count/differential) are the most critical initial tests
+
+## **Special Handling for Key Chemical Tests** {-}
+
+Certain tests require handling protocols that go beyond simple tube selection. Failure to follow these protocols will render the results clinically useless
+
+### **pH: The Empyema Indicator** {-}
+
+*   **Clinical Significance:** A pleural fluid pH < 7.2 is a critical result, highly suggestive of an empyema or complicated parapneumonic effusion that requires urgent chest tube drainage
+*   **Pre-analytical Requirements (Identical to an Arterial Blood Gas - ABG)**
+    1.  **Anaerobic Collection:** The sample must be collected in a heparinized syringe with all air bubbles expelled
+    2.  **Capped Tightly:** The syringe must be capped to prevent the fluid from equilibrating with room air (which would falsely increase the pH)
+    3.  **Transport on Ice:** This halts cellular metabolism, which would otherwise produce acidic byproducts and falsely lower the pH
+*   **Lab Responsibility:** If you receive a pleural fluid for pH in an open-top tube, you must reject it. Reporting a result from an improperly handled pH specimen is worse than reporting no result at all
+
+### **Glucose** {-}
+
+*   **Requirement:** The sample should be sent to the lab immediately
+*   **Rationale:** Glycolysis will continue in the tube if WBCs, bacteria, or malignant cells are present. A delay in testing can falsely lower the glucose level, potentially mimicking an infectious process. If a delay is unavoidable, the sample should be collected in a **sodium fluoride (gray top) tube**, which inhibits the enzyme enolase, stopping glycolysis
+
+## **Handling & Transport: The STAT Mandate** {-}
+
+Like CSF, all serous fluid effusions should be handled as **STAT specimens**
+
+*   **Transport:** Hand-deliver to the laboratory immediately. Do not leave at a drop-off window
+*   **Temperature:** Transport at room temperature (unless it is for pH, which must be on ice). Do not refrigerate, as this can cause artifacts in cells and kill fastidious organisms
+*   **Laboratory Receipt:** Log the time of collection and receipt. Immediately distribute the tubes to the correct departments. Analysis, particularly cell counts, should begin within one hour of collection
+
+## **Gross Examination: The First Diagnostic Clues** {-}
+
+The moment the tubes arrive, your analysis begins. The macroscopic appearance of the fluid is a vital clue that can immediately narrow the diagnostic possibilities
+
+*   **Clear, Pale Yellow (Serous)**
+    *   **Potential Causes:** Normal, Transudate
+    *   **Clinical Significance & Lab Follow-Up:** This is the expected appearance of a transudate
+
+*   **Turbid, Cloudy, Purulent**
+    *   **Potential Causes:** Infection, Inflammation (Exudate)
+    *   **Clinical Significance & Lab Follow-Up:** Strongly suggests a high cell count (WBCs). This is a priority for Gram stain and cell count. Purulent fluid is pus
+
+*   **Bloody (Hemorrhagic)**
+    *   **Potential Causes:** Traumatic Tap, Hemothorax, Malignancy
+    *   **Clinical Significance & Lab Follow-Up:** It is important to differentiate a traumatic tap from a true bleed. A **hematocrit** should be performed on the fluid. If the fluid hematocrit is >50% of the patient's peripheral blood hematocrit, it defines a hemothorax
+
+*   **Milky, White, Opaque**
+    *   **Potential Causes:** Chylothorax, Pseudochylothorax
+    *   **Clinical Significance & Lab Follow-Up:** This appearance suggests a disruption of the thoracic duct (chylothorax) or chronic inflammation (pseudochylothorax). **Order a triglyceride level.** A triglyceride level > 110 mg/dL is indicative of a chylothorax. A pseudochylothorax will show cholesterol crystals on microscopic examination
+
+*   **Greenish**
+    *   **Potential Causes:** Biliary fistula, Pancreatitis, Rheumatoid Pleurisy
+    *   **Clinical Significance & Lab Follow-Up:** This suggests the presence of bilirubin. **Order a fluid bilirubin level.** If the fluid bilirubin is greater than the serum bilirubin, it confirms a biliary connection
+
+*   **Brown**
+    *   **Potential Causes:** Old blood (hemorrhage), Metastatic Melanoma
+    *   **Clinical Significance & Lab Follow-Up:** This color indicates the breakdown of hemoglobin to methemoglobin
+
+*   **Viscous**
+    *   **Potential Causes:** Malignant Mesothelioma
+    *   **Clinical Significance & Lab Follow-Up:** High levels of hyaluronic acid produced by the tumor can make the fluid very thick
+
+
+## **Safety** {-}
+
+Assume every serous fluid is infectious. These fluids can contain high concentrations of dangerous pathogens
+
+*   **PPE:** Gloves, lab coat, face shield/goggles are mandatory
+*   **Aerosol Prevention:** Centrifuge tubes with safety caps. Perform all work that could generate aerosols (vortexing, smear prep) inside a Class II Biological Safety Cabinet
+*   **Pathogen Risk:** Be aware of the potential for *Mycobacterium tuberculosis*, Hepatitis B/C, HIV, and virulent bacteria
+
+## **Conclusion** {-}
+
+The journey of a serous fluid specimen is fraught with pre-analytical pitfalls. From selecting the correct anticoagulant to transporting a pH sample on ice, every step has a profound impact on the quality and clinical utility of the final result. As the gatekeepers of specimen quality, we must be vigilant. By mastering the principles of collection and handling, we ensure that the invasive procedure the patient endured yields the most accurate and diagnostically powerful information possible

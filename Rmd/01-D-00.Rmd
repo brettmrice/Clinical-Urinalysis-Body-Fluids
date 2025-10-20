@@ -8,18 +8,18 @@ Let's step back from the microscope and take a bird's-eye view of the incredible
 
 Think of the kidneys as the body's most sophisticated and vital purification plant. Every minute, they receive about 25% of the blood pumped from the heart. Their mission is complex, but it boils down to four critical jobs that directly impact what we see in the urine cup:
 
-1.  **Waste Removal** Filtering out metabolic byproducts like urea, creatinine, and uric acid
-2.  **Water and Electrolyte Balance** Maintaining the perfect amount of water and salts (like sodium and potassium) in the body. This is arguably its most important life-sustaining function
-3.  **Acid-Base Balance** Regulating blood pH by excreting acids (H+) or reabsorbing buffers (bicarbonate)
-4.  **Hormone Production** Releasing hormones like erythropoietin (to make RBCs) and renin (to regulate blood pressure)
+1.  **Waste Removal:** Filtering out metabolic byproducts like urea, creatinine, and uric acid
+2.  **Water and Electrolyte Balance:** Maintaining the perfect amount of water and salts (like sodium and potassium) in the body. This is arguably its most important life-sustaining function
+3.  **Acid-Base Balance:** Regulating blood pH by excreting acids (H+) or reabsorbing buffers (bicarbonate)
+4.  **Hormone Production:** Releasing hormones like erythropoietin (to make RBCs) and renin (to regulate blood pressure)
 
 To accomplish these tasks, each kidney contains about one million individual workstations called **nephrons**. The journey of urine formation is a step-by-step process through this microscopic marvel
 
 ## **The Nephron: A Journey in Four Parts** {-}
 
-Everything we see in the urinalysis is a direct result of what happens—or fails to happen—at each stage of this journey
+Everything we see in the urinalysis is a direct result of what happens - or fails to happen - at each stage of this journey
 
-### **Stage 1: The Glomerulus — The High-Pressure Filter** {-}
+### **Stage 1: The Glomerulus  -  The High-Pressure Filter** {-}
 
 *   **What it is:** A specialized capillary bed tucked inside a structure called Bowman's capsule. Blood enters through a wide afferent arteriole and exits through a narrow efferent arteriole, creating high pressure
 *   **What it does:** This pressure forces water, small solutes, and ions out of the blood and into the nephron. This process is called **glomerular filtration**. The resulting fluid is the **glomerular filtrate**. It's essentially plasma, but without the large proteins and cells. Its specific gravity is fixed at **1.010**
@@ -31,7 +31,7 @@ Everything we see in the urinalysis is a direct result of what happens—or fail
         *   **Hematuria:** Red blood cells squeeze through, causing a positive blood test and RBCs in the microscopic exam
         *   **RBC Casts:** If RBCs get trapped in the tubules downstream, they form casts, definitively proving the bleeding originated in the kidney itself
 
-### **Stage 2: The Proximal Convoluted Tubule (PCT) — The Bulk Reabsorber** {-}
+### **Stage 2: The Proximal Convoluted Tubule (PCT)  -  The Bulk Reabsorber** {-}
 
 *   **What it does:** This is the workhorse of the nephron. As soon as the filtrate leaves the glomerulus, the PCT's job is to immediately reabsorb about 65% of the water and solutes that the body wants to keep. It actively pulls back all the good stuff: glucose, amino acids, vitamins, and most of the essential salts
 *   **The Concept of Renal Threshold:** The PCT has a limited capacity to reabsorb certain substances. For glucose, this limit is called the **renal threshold** (approximately 160-180 mg/dL)
@@ -40,13 +40,13 @@ Everything we see in the urinalysis is a direct result of what happens—or fail
     *   **Pathology:** In uncontrolled **Diabetes Mellitus**, the blood glucose level skyrockets past the renal threshold. The PCT's transporters are overwhelmed, and the excess glucose cannot be reabsorbed, so it spills into the urine
         *   **Glucosuria:** A positive glucose test is a hallmark of hyperglycemia. It signals a metabolic problem, not necessarily a kidney problem
 
-### **Stage 3 & 4: The Loop of Henle and The Distal Tubules — Fine-Tuning and Concentration** {-}
+### **Stage 3 & 4: The Loop of Henle & The Distal Tubules  -  Fine-Tuning & Concentration** {-}
 
 This is where the magic of urine concentration happens, a process driven by two key hormones
 
-3.   **The Loop of Henle** Its primary job is to use a **countercurrent mechanism** to create a super salty environment in the surrounding kidney tissue (the medulla). It does this by pumping salts out of the tubule. Think of it as "priming the pump" for the final step
+3.   **The Loop of Henle:** Its primary job is to use a **countercurrent mechanism** to create a super salty environment in the surrounding kidney tissue (the medulla). It does this by pumping salts out of the tubule. Think of it as "priming the pump" for the final step
 
-4.  **The Distal Convoluted Tubule (DCT) and Collecting Duct** This is the final processing center, and its actions are dictated by the body's needs via hormones
+4.  **The Distal Convoluted Tubule (DCT) and Collecting Duct:** This is the final processing center, and its actions are dictated by the body's needs via hormones
     *   **Aldosterone:** This hormone acts on the DCT to save sodium. When the body needs to retain salt and water (e.g., low blood pressure), aldosterone is released, causing sodium to be reabsorbed. Water follows the sodium
     *   **Antidiuretic Hormone (ADH):** This is the master regulator of water balance
         *   **If you are dehydrated:** The pituitary gland releases ADH. ADH makes the collecting duct permeable to water. As the filtrate passes through the super salty medulla (created by the Loop of Henle), water is powerfully drawn out of the duct and back into the body. **The Result** Low volume of concentrated urine with a **high specific gravity**
@@ -56,7 +56,7 @@ This is where the magic of urine concentration happens, a process driven by two 
 *   **Link to Urinalysis**
     *   **Specific Gravity/Osmolality:** This physical test is a direct measure of the kidney's ability to respond to ADH. A healthy kidney should be able to produce urine with a very low or very high SG depending on hydration status
     *   **pH:** The urine pH reflects the kidney's work to manage the body's acid-base status
-    *   **Isosthenuria:** This is a critical concept. If the kidneys are severely damaged, they lose the ability to concentrate or dilute urine. The SG becomes fixed at **1.010**—the same as the original glomerular filtrate. This means the tubules are doing no work at all and is a sign of end-stage renal disease
+    *   **Isosthenuria:** This is a critical concept. If the kidneys are severely damaged, they lose the ability to concentrate or dilute urine. The SG becomes fixed at **1.010** - the same as the original glomerular filtrate. This means the tubules are doing no work at all and is a sign of end-stage renal disease
     *   **Casts:** The DCT is the primary site of **Tamm-Horsfall protein** secretion, the glue that forms all urinary casts. Cast formation is enhanced by low pH and high concentration, conditions often found in the DCT
 
 ## **Putting it all Together: Physiology to the Test Strip** {-}

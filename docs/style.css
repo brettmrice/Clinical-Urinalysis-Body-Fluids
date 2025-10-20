@@ -211,6 +211,13 @@ main p > a {
 
 
 
+#further-readings > p {
+    text-indent: -10px;
+    padding-left: 20px;
+}
+
+
+
 
 @media (min-width: 1200px) {
   body {

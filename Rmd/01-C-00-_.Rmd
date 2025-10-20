@@ -1,6 +1,6 @@
 # Microscopic {-}
 
-This is the grand finale of the urinalysis—the part where we look through the microscope and see the direct evidence of health or disease. It's where all the clues from the physical and chemical exams come into focus
+This is the grand finale of the urinalysis - the part where we look through the microscope and see the direct evidence of health or disease. It's where all the clues from the physical and chemical exams come into focus
 
 ## **Microscopic Examination of Urine** {-}
 
@@ -43,9 +43,9 @@ Identifying microorganisms helps to confirm or discover infections
 *   **Yeast:** Often seen in diabetic or immunocompromised patients. They are classic look-alikes for RBCs but are distinguished by their budding
 *   **Parasites:** The most common is ***Trichomonas vaginalis***, a motile flagellate that is a key indicator of a sexually transmitted infection
 
-## **Contaminants and Artifacts: The Red Herrings** {-}
+## **Contaminants & Artifacts: The Red Herrings** {-}
 
-A skilled MLS must be a gatekeeper, able to distinguish true clinical findings from "noise."
+A skilled laboratory scientist must be a gatekeeper, able to distinguish true clinical findings from "noise."
 
 *   **Contaminants:** Are real objects that fell into the specimen but did not come from the urinary tract. This includes **fibers** from clothing, **pollen grains**, and **starch** from powders. Recognizing these prevents misidentification of casts or other significant elements
 *   **Artifacts:** Are illusions created during the slide preparation or viewing process. This includes **air bubbles**, **oil droplets**, and **scratches** on the slide. Recognizing these is crucial to avoid reporting something that isn't really there

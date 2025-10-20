@@ -24,7 +24,7 @@ The most common WBC seen in urine is the neutrophil, but others can appear in sp
 
 ### **Neutrophils** {-}
 
-*   **Unstained Appearance:** Larger than RBCs (about 12 µm), spherical, and granular. Their multi-lobed nucleus is often visible but can be difficult to discern without stain. In hypotonic urine, they can swell and their granules may exhibit Brownian motion, creating a sparkling appearance—these are called **"glitter cells"** and were once mistakenly thought to be a specific cell type
+*   **Unstained Appearance:** Larger than RBCs (about 12 µm), spherical, and granular. Their multi-lobed nucleus is often visible but can be difficult to discern without stain. In hypotonic urine, they can swell and their granules may exhibit Brownian motion, creating a sparkling appearance - these are called **"glitter cells"** and were once mistakenly thought to be a specific cell type
 *   **Stained Appearance:** The segmented nucleus stains a distinct purple, and the cytoplasm appears light purple with visible granules. This makes them unmistakable
 *   **Clinical Significance**
     *   The presence of >5 WBCs/hpf is called **pyuria:** and indicates infection or inflammation in the genitourinary tract. This is a key finding in **Urinary Tract Infections (UTIs)**
@@ -35,7 +35,7 @@ The most common WBC seen in urine is the neutrophil, but others can appear in sp
 *   **Appearance:** This is a neutrophil or a larger macrophage that has visibly phagocytized bacteria within its cytoplasm
 *   **Clinical Significance:** This is a **critically important finding**. While bacteria can be present in urine due to contamination, finding bacteria *inside* a white blood cell is definitive proof of an active infection, not just contamination from the collection process
 
-### **Eosinophils, Lymphocytes, and Monocytes** {-}
+### **Eosinophils, Lymphocytes, & Monocytes** {-}
 
 These are much less common but clinically important when seen
 
@@ -81,7 +81,7 @@ By mastering the identification of these cells, you can provide physicians with 
 Think of the cells you identify under the microscope as characters in a story that tells you *where* in the genitourinary tract the problem is located. Your job is to read that story. It starts with assessing the quality of the sample and ends with peering deep inside the nephron
 
 *   A specimen flooded with **squamous epithelial cells:** is a story of **contamination**, not pathology. It tells you the sample may not be reliable. However, if that squamous cell is a **clue cell**, the story changes to one of **bacterial vaginosis**
-*   Finding clumps of **transitional cells:** alongside numerous **WBCs (pyuria)** points to inflammation in the bladder or ureters—the classic picture of a **UTI**. If you can spot a neutrophil that has actually ingested bacteria, you have found definitive proof of infection
+*   Finding clumps of **transitional cells:** alongside numerous **WBCs (pyuria)** points to inflammation in the bladder or ureters - the classic picture of a **UTI**. If you can spot a neutrophil that has actually ingested bacteria, you have found definitive proof of infection
 *   When you see **Renal Tubular Epithelial (RTE) cells**, the story takes a serious turn. This is no longer about the bladder; you are now witnessing damage deep within the kidney itself, a hallmark of acute tubular necrosis or other severe renal diseases
 *   Finally, the presence of **RBCs (hematuria):** forces you to ask the most critical question: what do they look like? If they appear normal, the bleeding is likely from the lower tract (a stone or tumor). But if they are **dysmorphic** and misshapen, they are telling you they have been forcibly squeezed through a damaged glomerulus, pointing to serious glomerular disease
 

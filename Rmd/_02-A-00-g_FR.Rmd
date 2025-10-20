@@ -1,0 +1,53 @@
+# Further Readings {-}
+
+Bundy LM, Rajnik M, Noor A. **Neonatal Meningitis**. [Updated 2023 Jul 6]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 Jan-. Available from: <a href="https://www.ncbi.nlm.nih.gov/books/NBK532264/" target="blank">https://www.ncbi.nlm.nih.gov/books/NBK532264/</a>
+
+Cantu RM, Das JM. **Viral Meningitis**. [Updated 2023 Aug 7]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 Jan-. Available from: <a href="https://www.ncbi.nlm.nih.gov/books/NBK545217/" target="_blank">https://www.ncbi.nlm.nih.gov/books/NBK545217/</a>
+
+Dotiwala AK, McCausland C, Samra NS. **Anatomy, Head and Neck: Blood Brain Barrier**. [Updated 2023 Apr 4]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 Jan-. Available from: <a href="https://www.ncbi.nlm.nih.gov/books/NBK519556/" target="_blank">https://www.ncbi.nlm.nih.gov/books/NBK519556/</a>
+
+Dugas C, Jamal Z, Bollu PC. **Xanthochromia**. [Updated 2024 Mar 1]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 Jan-. Available from: <a href="https://www.ncbi.nlm.nih.gov/books/NBK526048" target="_blank">https://www.ncbi.nlm.nih.gov/books/NBK526048</a>
+
+Ghannam JY, Al Kharazi KA. **Neuroanatomy, Cranial Meninges**. [Updated 2023 Jul 24]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 Jan-. Available from: <a href="https://www.ncbi.nlm.nih.gov/books/NBK539882/" target="_blank">https://www.ncbi.nlm.nih.gov/books/NBK539882/</a>
+
+Hall WA, Masood W. **Creutzfeldt-Jakob Disease**. [Updated 2025 Jun 23]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 Jan-. Available from: <a href="https://www.ncbi.nlm.nih.gov/books/NBK507860/" target="_blank">https://www.ncbi.nlm.nih.gov/books/NBK507860/</a>
+
+Harrow-Mortelliti M, Reddy V, Jimsheleishvili G. **Physiology, Spinal Cord**. [Updated 2023 Mar 17]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 Jan-. Available from: <a href="https://www.ncbi.nlm.nih.gov/books/NBK544267/" target="_blank">https://www.ncbi.nlm.nih.gov/books/NBK544267/</a>
+
+Hersi K, Gonzalez FJ, Kondamudi NP. **Meningitis**. [Updated 2023 Aug 12]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 Jan-. Available from: <a href="https://www.ncbi.nlm.nih.gov/books/NBK459360/" target="_blank">https://www.ncbi.nlm.nih.gov/books/NBK459360/</a>
+
+Hersi K, Gonzalez FJ, Kondamudi NP, et al. **Meningitis (Nursing)** [Updated 2023 Aug 12]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 Jan-. Available from: <a href="https://www.ncbi.nlm.nih.gov/books/NBK568762/" target="_blank">https://www.ncbi.nlm.nih.gov/books/NBK568762/</a>
+
+Jane LA, Wray AA. **Lumbar Puncture**. [Updated 2023 Jul 24]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 Jan-. Available from: <a href="https://www.ncbi.nlm.nih.gov/books/NBK557553/" target="_blank">https://www.ncbi.nlm.nih.gov/books/NBK557553/</a>
+
+Javed K, Reddy V, Lui F. **Neuroanatomy, Choroid Plexus**. [Updated 2023 Jul 24]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 Jan-. Available from: <a href="https://www.ncbi.nlm.nih.gov/books/NBK538156/" target="_blank">https://www.ncbi.nlm.nih.gov/books/NBK538156/</a>
+
+Khan YS, Lui F. **Neuroanatomy, Spinal Cord**. [Updated 2023 Jul 24]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 Jan-. Available from: <a href="https://www.ncbi.nlm.nih.gov/books/NBK559056/" target="_blank">https://www.ncbi.nlm.nih.gov/books/NBK559056/</a>
+
+Karambelkar A, De Jesus O. **Fluoroscopy Lumbar Puncture Assessment, Protocols, and Interpretation**. [Updated 2023 Aug 23]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 Jan-. Available from: <a href="https://www.ncbi.nlm.nih.gov/books/NBK570637/" target="_blank">https://www.ncbi.nlm.nih.gov/books/NBK570637/</a>
+
+Kaur H, Betances EM, Perera TB. **Aseptic Meningitis**. [Updated 2024 Feb 26]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 Jan-. Available from: <a href="https://www.ncbi.nlm.nih.gov/books/NBK557412/" target="_blank">https://www.ncbi.nlm.nih.gov/books/NBK557412/</a>
+
+Mańdziuk J, Kuchar EP. **Streptococcal Meningitis**. [Updated 2025 Jun 22]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 Jan-. Available from: <a href="https://www.ncbi.nlm.nih.gov/books/NBK554448/" target="_blank">https://www.ncbi.nlm.nih.gov/books/NBK554448/</a>
+
+Margetis K, Baker S. **Physiology, Cerebral Spinal Fluid**. [Updated 2025 Aug 9]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 Jan-. Available from: <a href="https://www.ncbi.nlm.nih.gov/books/NBK519007/" target="_blank">https://www.ncbi.nlm.nih.gov/books/NBK519007/</a>
+
+Margetis K, Weisbrod LJ, Launico MV. **Neuroanatomy, Cerebrospinal Fluid**. [Updated 2025 Jul 7]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 Jan-. Available from: <a href="https://www.ncbi.nlm.nih.gov/books/NBK470578/" target="_blank">https://www.ncbi.nlm.nih.gov/books/NBK470578/</a>
+
+Nguyen TP, Taylor RS. **Guillain-Barre Syndrome**. [Updated 2023 Feb 7]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 Jan-. Available from: <a href="https://www.ncbi.nlm.nih.gov/books/NBK532254/" target="_blank">https://www.ncbi.nlm.nih.gov/books/NBK532254/</a>
+
+Pana A, Vijayan V, Anilkumar AC. **Amebic Meningoencephalitis**. [Updated 2023 Jan 21]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 Jan-. Available from: <a href="https://www.ncbi.nlm.nih.gov/books/NBK430754/" target="_blank">https://www.ncbi.nlm.nih.gov/books/NBK430754/</a>
+
+Pescador Ruschel MA, Thapa B. Cryptococcal **Meningitis**. [Updated 2023 Aug 8]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 Jan-. Available from: <a href="https://www.ncbi.nlm.nih.gov/books/NBK525986/" target="_blank">https://www.ncbi.nlm.nih.gov/books/NBK525986/</a>
+
+Roesch ZK, Tadi P. **Neuroanatomy, Fourth Ventricle**. [Updated 2023 Aug 7]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 Jan-. Available from: <a href="https://www.ncbi.nlm.nih.gov/books/NBK546577/" target="_blank">https://www.ncbi.nlm.nih.gov/books/NBK546577/</a>
+
+Runde TJ, Anjum F, Hafner JW. **Bacterial Meningitis**. [Updated 2023 Aug 8]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 Jan-. Available from: <a href="https://www.ncbi.nlm.nih.gov/books/NBK470351/" target="_blank">https://www.ncbi.nlm.nih.gov/books/NBK470351/</a>
+
+Shafique S, Rayi A. **Anatomy, Head and Neck, Subarachnoid Space**. [Updated 2023 Aug 8]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 Jan-. Available from: <a href="https://www.ncbi.nlm.nih.gov/books/NBK557521/" target="_blank">https://www.ncbi.nlm.nih.gov/books/NBK557521/</a>
+
+Shenoy SS, Lui F. **Neuroanatomy, Ventricular System**. [Updated 2023 Jul 24]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 Jan-. Available from: <a href="https://www.ncbi.nlm.nih.gov/books/NBK532932/" target="_blank">https://www.ncbi.nlm.nih.gov/books/NBK532932/</a>
+
+Tripathi AK, Chuda R. **Laboratory Evaluation of Acute Leukemia**. [Updated 2025 Jan 5]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 Jan-. Available from: <a href="https://www.ncbi.nlm.nih.gov/books/NBK611988/" target="_blank">https://www.ncbi.nlm.nih.gov/books/NBK611988/</a>
+
+Ziu E, Khan Suheb MZ, Mesfin FB. **Subarachnoid Hemorrhage**. [Updated 2023 Jun 1]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2025 Jan-. Available from: <a href="https://www.ncbi.nlm.nih.gov/books/NBK441958/" target="_blank">https://www.ncbi.nlm.nih.gov/books/NBK441958/</a>

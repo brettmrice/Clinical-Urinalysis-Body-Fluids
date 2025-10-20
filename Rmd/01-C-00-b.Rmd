@@ -4,7 +4,7 @@ Let's move on to one of the most important and diagnostically rich parts of the 
 
 Finding a cast in urine sediment is like finding a fossil in a rock layer. It's a snapshot in time that tells you exactly what was happening *inside the kidney* when that urine was formed. This is their single most important feature
 
-## **What Is a Cast and Why Is It So Important?** {-}
+## **What Is a Cast & Why Is It So Important?** {-}
 
 A cast is a cylindrical structure formed in the lumen of the **distal convoluted tubule (DCT)** and the **collecting ducts**. The basic foundation, or matrix, of every cast is a glycoprotein called **Tamm-Horsfall protein** (also known as uromodulin), which is secreted by the RTE cells of the DCT
 

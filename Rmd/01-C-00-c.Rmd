@@ -117,7 +117,7 @@ Crystal identification is like forensic geology for the body. It's a puzzle wher
 *   **The pH is your roadmap:** It tells you where to begin. Is the urine acidic? Then you should be thinking about **uric acid**, **calcium oxalate**, and **amorphous urates**. Is it alkaline? Your primary suspects become **triple phosphate**, **ammonium biurate**, and **amorphous phosphates**
 
 *   **Separate the Benign from the Critical**
-    *   Most crystals you see—like calcium oxalate "envelopes" and triple phosphate "coffin lids"—are **normal:** findings related to diet or specimen storage
+    *   Most crystals you see - like calcium oxalate "envelopes" and triple phosphate "coffin lids" - are **normal:** findings related to diet or specimen storage
     *   Some crystals, however, are immediate **red flags**. Finding even one **cystine:** hexagon, **leucine** sphere, or **tyrosine** needle is an abnormal finding that points directly to a serious inherited or metabolic disease. Likewise, **cholesterol** plates are hallmarks of the nephrotic syndrome
     *   Finally, crystals like **sulfonamide:** sheaves are crucial clues to potential drug-induced kidney injury, reminding you to always consider the patient's medication history
 

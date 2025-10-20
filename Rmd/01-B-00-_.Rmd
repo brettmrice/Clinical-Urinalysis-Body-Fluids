@@ -4,7 +4,7 @@ This is the heart of the urinalysis, where we move from simple observation to ch
 
 ## **Chemical Examination of Urine** {-}
 
-The chemical examination is a crucial screening portion of the routine urinalysis. It uses a multi-pad reagent strip to rapidly and semi-quantitatively assess a panel of chemical markers in the urine. Think of it as the "vital signs" of the urine—it provides a snapshot of metabolic function, renal health, and potential infections. However, the reagent strip is only a screening tool. Positive or unexpected results must often be verified using more specific and sensitive **confirmatory tests**. The interplay between the strip and these follow-up tests is central to an accurate chemical workup
+The chemical examination is a crucial screening portion of the routine urinalysis. It uses a multi-pad reagent strip to rapidly and semi-quantitatively assess a panel of chemical markers in the urine. Think of it as the "vital signs" of the urine - it provides a snapshot of metabolic function, renal health, and potential infections. However, the reagent strip is only a screening tool. Positive or unexpected results must often be verified using more specific and sensitive **confirmatory tests**. The interplay between the strip and these follow-up tests is central to an accurate chemical workup
 
 ## **The Reagent Strip: The Workhorse of Urinalysis** {-}
 
@@ -16,7 +16,7 @@ The reagent strip is a marvel of efficiency. This simple plastic strip is embedd
 
 The tests on a standard strip can be grouped by their primary clinical purpose:
 
-### **Markers of Renal Health and Hydration** {-}
+### **Markers of Renal Health & Hydration** {-}
 *   **Protein:** The single most important indicator of **renal disease**. The strip test is based on the "protein error of indicators" principle and is most sensitive to **albumin**. A positive result suggests glomerular damage
 *   **pH:** Measures the acidity or alkalinity of the urine. It provides clues about acid-base disorders, diet, and the presence of urea-splitting bacteria, and is essential for interpreting crystal formation
 *   **Specific Gravity:** An indirect measure of urine concentration based on the ionic content of the specimen. It reflects the patient's hydration status and the kidney's concentrating ability
@@ -25,12 +25,12 @@ The tests on a standard strip can be grouped by their primary clinical purpose:
 *   **Glucose:** A specific enzymatic test that screens for glucose in the urine (**glucosuria**). Its presence indicates that the blood glucose level has exceeded the kidney's renal threshold (160-180 mg/dL), a hallmark of **Diabetes Mellitus**
 *   **Ketones:** Detects the products of fat metabolism (**ketonuria**). Ketones appear when the body cannot use carbohydrates for energy, a key finding in **diabetic ketoacidosis (DKA)**, starvation, or low-carb diets
 
-### **Markers of Liver Function and Hemolysis** {-}
+### **Markers of Liver Function & Hemolysis** {-}
 *   **Bilirubin:** Detects conjugated bilirubin in the urine. It is an early indicator of **liver disease** (like hepatitis) or **biliary tract obstruction**. Bilirubin is very unstable and breaks down in light
 *   **Urobilinogen:** A small amount is normal. An increased result can indicate liver disease or hemolytic anemia. An **absent** result is very significant, suggesting a biliary obstruction
 *   **Blood:** Detects the pseudoperoxidase activity of heme, meaning it reacts positively with intact RBCs (**hematuria**), free hemoglobin (**hemoglobinuria**), and myoglobin (**myoglobinuria**)
 
-### **Markers of Infection and Inflammation** {-}
+### **Markers of Infection & Inflammation** {-}
 *   **Nitrite:** A highly specific indicator for the presence of nitrate-reducing bacteria (most common UTI pathogens). A positive result is a strong predictor of a UTI
 *   **Leukocyte Esterase (LE):** Detects an enzyme released from WBCs. A positive result indicates **pyuria** (WBCs in urine) and is a key sign of inflammation, most often due to a UTI
 

@@ -1,0 +1,83 @@
+# Physical Testing {-}
+
+The physical, or macroscopic, examination of a stool sample is the oldest and most fundamental part of our analysis. In an era of sophisticated molecular and immunochemical assays, it is tempting to dismiss this step as rudimentary. That would be a grave mistake
+
+Your eyes and nose are powerful diagnostic instruments. A careful, systematic observation of the stool's consistency, color, and the presence of abnormal elements like blood and mucus can provide immediate, high-yield information that often directs the entire subsequent workup. A single glance can tell you if a patient's diarrhea is likely inflammatory or osmotic. The color can be the first clue to a life-threatening upper GI bleed or a complete biliary obstruction. This is not a passive observation; it is an active, interpretive process
+
+## **Consistency (Form): A Direct Measure of Colonic Function** {-}
+
+Consistency is the most important physical parameter we assess. It is a direct reflection of the stool's water content, which is in turn a function of colonic transit time. We do not use vague terms like "soft" or "hard." We use a standardized, objective scale
+
+*   **The Bristol Stool Form Scale: The Universal Language**
+    *   This is a seven-point scale that provides a standardized vocabulary for describing stool form. Every laboratorian must know it
+    *   **(To Do: Display the Bristol Stool Chart on screen)**
+        *   **Type 1:** Separate hard lumps, like nuts (hard to pass) -> **Severe Constipation**
+        *   **Type 2:** Sausage-shaped but lumpy -> **Mild Constipation**
+        *   **Type 3:** Like a sausage but with cracks on its surface -> **Normal**
+        *   **Type 4:** Like a sausage or snake, smooth and soft -> **Normal**
+        *   **Type 5:** Soft blobs with clear-cut edges (passed easily) -> **Mild Diarrhea**
+        *   **Type 6:** Fluffy pieces with ragged edges, a mushy stool -> **Moderate Diarrhea**
+        *   **Type 7:** Watery, no solid pieces, entirely liquid -> **Severe Diarrhea**
+
+*   **Clinical Significance & Laboratory Implications**
+    *   **The Form Dictates the Test:** The consistency of the stool immediately tells us what we should be looking for
+        *   **Liquid or Watery Stools (Types 6-7):** This is where we will find the fragile, motile **trophozoite** stage of protozoan parasites (like *Giardia* or *E. histolytica*). These samples are a **STAT** priority and must be examined within 30 minutes of passage if unpreserved. Testing for bacterial toxins (like *C. difficile*) is also performed on liquid stool
+        *   **Formed or Semi-Formed Stools (Types 2-4):** This is where we will find the more robust **cyst** stage of protozoa and the **eggs and larvae** of helminths. Trophozoites will not be present
+    *   **Steatorrhea (Fatty Stool):** This is a key finding. The stool is often bulky, frothy, greasy, and foul-smelling. It may be pale and will often float in the toilet. This is the classic presentation of fat malabsorption
+
+## **Color: The Biliary & Bleeding Report Card** {-}
+
+The color of the stool provides a wealth of information about hepatobiliary function and the presence of bleeding within the GI tract
+
+*   **Normal:** **Brown.** The color is due to **stercobilin**, the final bacterial breakdown product of bilirubin
+
+*   **Abnormal Colors & Their Diagnostic Significance**
+
+    *   **Black, Tarry (Melena): The Upper GI Bleed Alarm**
+        *   **Physiology:** This indicates bleeding from a source high up in the GI tract (esophagus, stomach, duodenum). The black, sticky, "tar-like" appearance is caused by the oxidation of the iron in hemoglobin by stomach acid and digestive enzymes. It takes as little as 50-100 mL of blood to produce melena
+        *   **Clinical Significance:** This is a medical emergency. It is a classic sign of a peptic ulcer, esophageal varices, or gastritis
+        *   **Confounding Factors:** Iron supplements and bismuth-containing medications (like Pepto-Bismol) will also turn the stool black, but it will not have the characteristic sticky, tarry consistency of melena
+
+    *   **Red (Hematochezia): The Lower GI Bleed Alarm**
+        *   **Physiology:** This indicates bleeding from a source in the lower GI tract (colon, rectum, anus). The blood has not had enough time to be exposed to acid or enzymes, so it remains red
+        *   **Appearance:** Can range from streaks of bright red blood on the surface of a formed stool (suggesting hemorrhoids) to large amounts of frank blood mixed in with the stool (suggesting diverticulosis, IBD, or malignancy)
+        *   **Clinical Significance:** Requires immediate investigation
+
+    *   **Pale, Clay-Colored, Acholic: The Biliary Obstruction Sign**
+        *   **Physiology:** This is a critical finding that indicates a **lack of bile** reaching the intestine. Without bilirubin and its breakdown product, stercobilin, the stool loses its brown pigment and appears pale gray or white
+        *   **Clinical Significance:** This is the hallmark of a **post-hepatic biliary obstruction** (e.g., a gallstone or tumor blocking the common bile duct). It is often accompanied by jaundice and dark urine
+        *   **Confounding Factor:** Barium sulfate, used as a contrast agent for upper GI radiological studies, will also cause the stool to appear pale and chalky. A clinical history is essential
+
+    *   **Green:** Can be caused by rapid transit time (diarrhea), where bile pigments do not have sufficient time for bacterial conversion to stercobilin. Also common with ingestion of green leafy vegetables or foods with green dye
+
+    *   **Yellow:** Often associated with *Giardia* infection or steatorrhea
+
+## **Presence of Mucus and/or Blood** {-}
+
+The presence of these elements, especially when found together, is a powerful indicator of pathology
+
+*   **Mucus**
+    *   **Finding:** Clear, slimy, gel-like material. Small, unnoticeable amounts can be normal
+    *   **Significance:** The presence of visible mucus streaks or clumps indicates **irritation or inflammation of the colonic mucosa.** The goblet cells in the colon are overproducing mucus in an attempt to protect the inflamed lining. It is a common finding in Irritable Bowel Syndrome (IBS) and Inflammatory Bowel Disease (IBD)
+
+*   **Blood & Mucus Together ("Bloody Mucus")**
+    *   **Finding:** Stool mixed with both blood and mucus. This is often described as looking like "currant jelly."
+    *   **Significance:** This is the hallmark of an **invasive or inflammatory process** that is damaging the intestinal wall. It strongly suggests conditions like:
+        *   **Invasive bacterial infection:** *Shigella*, *Salmonella*, *Campylobacter*, enteroinvasive *E. coli* (EIEC)
+        *   **Invasive parasitic infection:** *Entamoeba histolytica* (amebic dysentery)
+        *   **Inflammatory Bowel Disease:** Ulcerative Colitis, Crohn's Disease
+    *   **Lab Action:** The presence of blood and mucus is a primary indication to perform a **fecal leukocyte (WBC) exam.**
+
+## **Search for Adult Worms & Proglottids** {-}
+
+The macroscopic exam is also a direct search for evidence of helminthic infections
+
+*   **Methodology:** The specimen, particularly the surface, is carefully examined for any visible worms. Suspect material can be gently probed or teased apart with applicator sticks to reveal its structure. A very liquid stool can be passed through a fine mesh sieve
+*   **Common Findings**
+    *   **Pinworms (*Enterobius vermicularis*):** Small (8-13 mm), white, thread-like worms that may be seen moving on the surface of the stool or around the perianal region
+    *   **Roundworms (*Ascaris lumbricoides*):** Large (15-35 cm), yellowish-white worms with the appearance of an earthworm. The passage of an adult worm is a common diagnostic event
+    *   **Tapeworm Proglottids:** The segments (proglottids) of tapeworms (*Taenia* species) are often passed in the stool. They appear as whitish, rectangular objects that may be motile (able to crawl) when freshly passed
+
+## **Conclusion** {-}
+
+The physical examination of feces is a rapid, non-invasive, and information-dense procedure. In less than a minute, by systematically assessing the consistency, color, and the presence of blood or mucus, we can develop a strong initial hypothesis about the patient's condition. Is this a secretory diarrhea or an invasive dysentery? Is the bleeding from high in the gut or low? Is there a blockage in the biliary tree? These fundamental questions are often answered, or at least strongly suggested, long before any chemical or microscopic test is performed. Never underestimate the diagnostic power of what you can see

@@ -1,0 +1,127 @@
+# Physical Testing {-}
+
+Before we spin a single sample, run a single chemical test, or place a slide on a microscope, our analysis of CSF begins. It begins the moment the tube arrives in our hands. The physical or macroscopic examination is not a passive glance; it is a formal, critical part of the analysis that must be performed systematically and documented accurately
+
+Your most powerful diagnostic tools at this stage are your eyes and your training. A careful observation of the fluid's clarity, color, and any clot formation can immediately narrow the diagnostic possibilities and guide the rest of the laboratory workup. In the case of suspected bacterial meningitis or subarachnoid hemorrhage, these initial findings can provide the clinician with actionable information in minutes
+
+## **Appearance / Clarity** {-}
+
+The first parameter we assess is the fluid's clarity. This is a direct measure of the particulate matter suspended within the CSF
+
+### **Methodology** {-}
+
+The clarity is assessed by visually examining the tube against a white background with black lines or printed text. You are trying to determine how easily you can see the lines/text through the fluid
+
+*   **Normal Finding**
+  *   **"Crystal Clear"**: Normal CSF is completely clear and has the viscosity of water. There should be no visible particles
+
+*   **Abnormal Findings (Grading Turbidity):** We report turbidity using a standardized grading scale to ensure consistency
+    *   **Slightly Hazy / Hazy:** Print is still easily visible, but some cloudiness is noted
+    *   **Slightly Cloudy / Cloudy:** Print is difficult to see through the fluid
+    *   **Turbid:** Print cannot be seen through the fluid
+    *   **Opaque / Purulent:** The specimen is thick with pus and may be colored white, yellow, or green
+
+#### **What Causes Turbidity?** {-}
+
+The clarity of CSF is directly related to the concentration of these main components. Understanding these quantitative cutoffs is essential
+
+1.  **White Blood Cells (Pleocytosis):** This is the most common cause of turbidity in infection and inflammation
+    *   Turbidity becomes noticeable at a WBC count of **>200 cells/µL**
+    *   A cloudy or purulent appearance is often associated with counts in the thousands, strongly suggesting **bacterial meningitis**
+
+2.  **Red Blood Cells:** The presence of RBCs will make the fluid appear hazy, cloudy, or grossly bloody
+    *   Turbidity becomes noticeable at an RBC count of **>400 cells/µL**
+    *   Grossly bloody CSF indicates either a significant subarachnoid hemorrhage or a very traumatic tap
+
+3.  **Microorganisms:** High concentrations of bacteria or fungi (like *Cryptococcus*) can cause a uniform haze or cloudiness, even with a relatively low WBC count initially
+
+4.  **Protein:** An extremely high protein concentration can also cause turbidity
+    *   Clarity is affected when total protein is **>150 mg/dL**. This is due to the precipitation of high-molecular-weight proteins, especially globulins
+
+## **Color** {-}
+
+After assessing clarity, we evaluate the color. For this, the specimen must be centrifuged, and the color of the **supernatant** must be evaluated. This is a non-negotiable step. Looking at the color of a bloody, unspun sample is useless
+
+### **Methodology** {-}
+Centrifuge the Hematology (Tube #3) or Chemistry (Tube #1) tube at ~2000g for 5-10 minutes. Hold the supernatant against a white background to assess its color
+
+*   **Normal Finding**
+    *   **Colorless:** The supernatant of normal CSF is perfectly colorless, like water
+
+*   **Abnormal Finding: Xanthochromia**
+    *   **Definition:** **Xanthochromia** is the single most important term in CSF color analysis. It refers to any abnormal color in the CSF supernatant, most commonly pink, orange, or yellow
+    *   **Significance:** The presence of xanthochromia is a critical finding that almost always indicates a pathological process. It is the key differentiator between a traumatic tap and a true subarachnouid hemorrhage
+
+#### **Causes of Xanthochromia** {-}
+
+1.  **RBC Lysis (Subarachnoid Hemorrhage):** This is the most clinically significant cause. When blood has been in the subarachnoid space for more than 2 hours, the RBCs begin to lyse
+    *   **Pink-Red (2-12 hours post-bleed):** Caused by the release of **oxyhemoglobin** from lysed RBCs
+    *   **Yellow (12 hours to 2-4 weeks post-bleed):** As hemoglobin is broken down by macrophages in the CNS, it is converted to **bilirubin**, which is yellow. This is definitive proof that the bleeding occurred *in vivo* (in the body) before the tap
+
+2.  **High CSF Protein:** A very high protein concentration (>150 mg/dL) can impart a pale yellow color to the supernatant due to the presence of albumin and other plasma proteins
+
+3.  **High Systemic Bilirubin:** If a patient has severe liver disease and a very high serum bilirubin, the bilirubin can cross a damaged blood-brain barrier, staining the CSF yellow. The CSF bilirubin will be proportional to the serum level
+
+4.  **Melanin (Rare):** In cases of metastatic melanoma to the CNS, melanin pigment can be released, causing a dark, almost brownish supernatant
+
+5.  **Carotenoids (Rare):** Extremely high intake of carotene-rich foods can cause a faint yellowing
+
+## **Clot Formation** {-}
+
+The final macroscopic observation is whether the fluid forms a clot upon standing
+
+*   **Normal Finding**
+    *   **No Clot Formation:** Normal CSF lacks fibrinogen and other clotting factors, so it **will not clot**
+
+*   **Abnormal Findings**
+
+    1.  **Clotting due to Traumatic Tap:** This is the most common reason for a clot. The lumbar puncture needle has nicked a blood vessel, introducing peripheral blood - with its full complement of fibrinogen and clotting factors - into the sample. The fluid will often form a solid clot similar to a tube of plasma. This finding strongly supports a diagnosis of a traumatic tap over a true hemorrhage
+
+    2.  **Pellicle Formation (Pathologic Clotting):** This is a different and very significant finding
+        *   **Description:** A delicate, web-like clot that forms on the surface of the fluid after it has been left to stand undisturbed (often for several hours or overnight in the refrigerator)
+        *   **Mechanism:** This occurs in conditions with extremely high protein levels but without the introduction of blood from a traumatic tap. The high concentration of fibrinogen that has crossed a severely damaged blood-brain barrier is sufficient to form this pellicle
+        *   **Classic Association:** Pellicle formation is the classic textbook finding for **Tuberculous (TB) Meningitis**. It can also be seen in other severe inflammatory conditions. Discovering a pellicle in a "clear" CSF sample is a critical finding that must be investigated further with an acid-fast stain
+
+## **Putting It All Together: A Diagnostic Summary Table** {-}
+
+Physical findings to help you build a differential diagnosis at the bench
+
+*   **Normal CSF**
+    *   **Appearance/Clarity:** Crystal Clear
+    *   **Color of Supernatant:** Colorless
+    *   **Clot Formation:** None
+    *   **Key Pathophysiology:** Healthy CNS, intact barriers
+
+*   **Traumatic Tap**
+    *   **Appearance/Clarity:** Unevenly Bloody/Hazy
+    *   **Color of Supernatant:** Colorless
+    *   **Clot Formation:** Often present (solid clot)
+    *   **Key Pathophysiology:** Iatrogenic vessel puncture during the procedure
+
+*   **Subarachnoid Hemorrhage**
+    *   **Appearance/Clarity:** Evenly Bloody/Hazy across all tubes
+    *   **Color of Supernatant:** Xanthochromic (pink/yellow)
+    *   **Clot Formation:** Absent
+    *   **Key Pathophysiology:** Bleeding occurred *in vivo* (inside the body), leading to RBC lysis before collection
+
+*   **Bacterial Meningitis**
+    *   **Appearance/Clarity:** Hazy to Purulent (pus-like)
+    *   **Color of Supernatant:** Normal or pale yellow
+    *   **Clot Formation:** Rare (unless the tap is also traumatic)
+    *   **Key Pathophysiology:** Very high numbers of WBCs, bacteria, and high protein concentration
+
+*   **Viral Meningitis**
+    *   **Appearance/Clarity:** Clear to Slightly Hazy
+    *   **Color of Supernatant:** Colorless
+    *   **Clot Formation:** None
+    *   **Key Pathophysiology:** Mild to moderate increase in cells (pleocytosis), primarily lymphocytes
+
+*   **Tuberculous Meningitis**
+    *   **Appearance/Clarity:** Clear to Hazy; may be viscous
+    *   **Color of Supernatant:** Yellowish (due to very high protein)
+    *   **Clot Formation:** A classic web-like clot (pellicle) may form upon standing
+    *   **Key Pathophysiology:** Very high protein concentration and a moderate pleocytosis
+
+## **Conclusion** {-}
+
+Never underestimate the power of simple observation. The physical examination of CSF is a rapid, non-destructive test that provides immediate insight into the state of the central nervous system. A clear, colorless, clot-free fluid is reassuring. A turbid, xanthochromic, or clotting fluid is a medical emergency. Your ability to accurately perform and interpret these findings is the first, and sometimes most important, step in the laboratory diagnosis of CNS disease

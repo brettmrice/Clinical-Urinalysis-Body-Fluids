@@ -14,11 +14,13 @@ Major content areas covered:
 
 ## **Body Fluids** {-}
 
-*   [Physical](physical-1.html)
-*   [Chemical](chemical-1.html)
-*   [Microscopic](microscopic-1.html)
-*   [Physiology](physiology.html)
-*   [Disease States](disease-states-1.html)
+*   [Cerebrospinal](cerebrospinal.html)
+*   [Serous](serous.html)
+*   [Synovial](synovial.html)
+*   [Bronchoalveolar Lavage](bal.html)
+*   [Semen](semen.html)
+*   [Amniotic](amniotic.html)
+*   [Feces](feces.html)
 
 ## Last Updated {-}
 

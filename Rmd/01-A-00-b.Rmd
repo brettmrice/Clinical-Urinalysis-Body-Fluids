@@ -13,7 +13,7 @@ This measurement gives us a direct window into two critical functions:
 
 ## **Physiology Behind It All** {-}
 
-To truly understand SG, you have to think about the journey of urine through the nephron. After the blood is filtered in the glomerulus, the resulting fluid (the glomerular filtrate) enters the tubules with an SG of about **1.010**. This number is critical—it's the SG of plasma without proteins
+To truly understand SG, you have to think about the journey of urine through the nephron. After the blood is filtered in the glomerulus, the resulting fluid (the glomerular filtrate) enters the tubules with an SG of about **1.010**. This number is critical - it's the SG of plasma without proteins
 
 As this filtrate travels through the tubules, the kidneys work their magic based on the body's needs, a process controlled by **Antidiuretic Hormone (ADH)**
 
@@ -64,4 +64,4 @@ We have a few tools in our arsenal to measure SG, each with its own principle an
 
 Think of specific gravity as a direct "report card" on the kidney's ability to perform its most fundamental job: managing the body's water balance. It reflects the hormonal command of **Antidiuretic Hormone (ADH)** in action. A healthy kidney is flexible, producing a high SG when dehydrated and a low SG when overhydrated, demonstrating a full range of function
 
-However, the most critical story specific gravity tells is when it *doesn't* change. A urine SG that remains frozen at **1.010**, the same concentration as the original plasma filtrate, is known as **isosthenuria**. This is a grave sign. It means the renal tubules have completely lost their power to concentrate or dilute urine, providing a clear and stark window into severe renal damage and end-stage disease. Therefore, this single measurement goes beyond simple hydration—it assesses the very essence of tubular function
+However, the most critical story specific gravity tells is when it *doesn't* change. A urine SG that remains frozen at **1.010**, the same concentration as the original plasma filtrate, is known as **isosthenuria**. This is a grave sign. It means the renal tubules have completely lost their power to concentrate or dilute urine, providing a clear and stark window into severe renal damage and end-stage disease. Therefore, this single measurement goes beyond simple hydration - it assesses the very essence of tubular function

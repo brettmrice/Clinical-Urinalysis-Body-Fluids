@@ -1,0 +1,503 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>Disease Correlation | UABF</title>
+<meta name="author" content="Brett M. Rice">
+<meta name="description" content="We have spent the last several lectures meticulously taking apart the analysis of cerebrospinal fluid. We’ve learned the what and the how. Today, we learn the why. This is the synthesis. We will...">
+<meta name="generator" content="bookdown 0.43 with bs4_book()">
+<meta property="og:title" content="Disease Correlation | UABF">
+<meta property="og:type" content="book">
+<meta property="og:description" content="We have spent the last several lectures meticulously taking apart the analysis of cerebrospinal fluid. We’ve learned the what and the how. Today, we learn the why. This is the synthesis. We will...">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Disease Correlation | UABF">
+<meta name="twitter:description" content="We have spent the last several lectures meticulously taking apart the analysis of cerebrospinal fluid. We’ve learned the what and the how. Today, we learn the why. This is the synthesis. We will...">
+<!-- JS --><script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js" integrity="sha256-inc5kl9MA1hkeYUt+EC3BhlIgyp/2jDIyBLS6k3UxPI=" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/6.4.6/fuse.js" integrity="sha512-zv6Ywkjyktsohkbp9bb45V6tEMoWhzFzXis+LrMehmJZZSys19Yxf1dopHx7WzIKxr5tK2dVcYmaCk2uqdjF4A==" crossorigin="anonymous"></script><script src="https://kit.fontawesome.com/6ecbd6c532.js" crossorigin="anonymous"></script><script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link href="libs/bootstrap-4.6.0/bootstrap.min.css" rel="stylesheet">
+<script src="libs/bootstrap-4.6.0/bootstrap.bundle.min.js"></script><script src="libs/bs3compat-0.9.0/transition.js"></script><script src="libs/bs3compat-0.9.0/tabs.js"></script><script src="libs/bs3compat-0.9.0/bs3compat.js"></script><link href="libs/bs4_book-1.0.0/bs4_book.css" rel="stylesheet">
+<script src="libs/bs4_book-1.0.0/bs4_book.js"></script><link rel="icon" type="image/png" href="imgs/favicon.png">
+<meta name="google-adsense-account" content="ca-pub-1344282930858290">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JERRQQFPF4"></script><script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-JERRQQFPF4');
+    </script><script src="https://cdnjs.cloudflare.com/ajax/libs/autocomplete.js/0.38.0/autocomplete.jquery.min.js" integrity="sha512-GU9ayf+66Xx2TmpxqJpliWbT5PiGYxpaG8rfnBEk1LL8l1KGkRShhngwdXK1UgqhAzWpZHSiYPc09/NwDQIGyg==" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/mark.min.js" integrity="sha512-5CYOlHXGh6QpOFA/TeTylKLWfB3ftPsde7AnmhuitiTX4K5SqCLBeKro6sPS8ilsz1Q4NRx3v8Ko2IBiszzdww==" crossorigin="anonymous"></script><!-- CSS --><style type="text/css">
+    
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  </style>
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="toc.css">
+</head>
+<body data-spy="scroll" data-target="#toc">
+
+<div class="container-fluid">
+<div class="row">
+  <header class="col-sm-12 col-lg-3 sidebar sidebar-book"><a class="sr-only sr-only-focusable" href="#content">Skip to main content</a>
+
+    <div class="d-flex align-items-start justify-content-between">
+      <h1>
+        <a href="index.html" title="">Urinalysis &amp; Body Fluids</a>
+      </h1>
+      <button class="btn btn-outline-primary d-lg-none ml-2 mt-1" type="button" data-toggle="collapse" data-target="#main-nav" aria-expanded="true" aria-controls="main-nav"><i class="fas fa-bars"></i><span class="sr-only">Show table of contents</span></button>
+    </div>
+
+    <div id="main-nav" class="collapse-lg">
+      <form role="search">
+        <input id="search" class="form-control" type="search" placeholder="Search" aria-label="Search">
+</form>
+
+      <nav aria-label="Table of contents"><h2>Table of contents</h2>
+        <ul class="book-toc list-unstyled">
+<li><a class="" href="index.html">About</a></li>
+<li><a class="" href="content-areas.html">Content Areas</a></li>
+<li><a class="" href="author.html">Author</a></li>
+<li><a class="" href="ascp-boc.html">ASCP BOC</a></li>
+<li><a class="" href="reading-list.html">Reading List</a></li>
+<li class="book-part">Urinalysis</li>
+<li><a class="" href="physical.html">Physical</a></li>
+<li><a class="" href="color-clarity.html">Color &amp; Clarity</a></li>
+<li><a class="" href="specific-gravityosmolality.html">Specific Gravity/Osmolality</a></li>
+<li><a class="" href="chemical.html">Chemical</a></li>
+<li><a class="" href="reagent-strip.html">Reagent Strip</a></li>
+<li><a class="" href="confirmatory-tests.html">Confirmatory Tests</a></li>
+<li><a class="" href="microscopic.html">Microscopic</a></li>
+<li><a class="" href="cells.html">Cells</a></li>
+<li><a class="" href="casts.html">Casts</a></li>
+<li><a class="" href="crystals.html">Crystals</a></li>
+<li><a class="" href="microorganisms.html">Microorganisms</a></li>
+<li><a class="" href="contaminants.html">Contaminants</a></li>
+<li><a class="" href="artifacts.html">Artifacts</a></li>
+<li><a class="" href="renal-physiology.html">Renal Physiology</a></li>
+<li><a class="" href="disease-states.html">Disease States</a></li>
+<li class="book-part">Body Fluids</li>
+<li><a class="" href="cerebrospinal.html">Cerebrospinal</a></li>
+<li><a class="" href="physiology.html">Physiology</a></li>
+<li><a class="" href="collection-handling.html">Collection &amp; Handling</a></li>
+<li><a class="" href="physical-testing.html">Physical Testing</a></li>
+<li><a class="" href="chemical-testing.html">Chemical Testing</a></li>
+<li><a class="" href="microscopic-analysis.html">Microscopic Analysis</a></li>
+<li><a class="active" href="disease-correlation.html">Disease Correlation</a></li>
+<li><a class="" href="serous.html">Serous</a></li>
+<li><a class="" href="physiology-1.html">Physiology</a></li>
+<li><a class="" href="transudate-vs.-exudate.html">Transudate vs. Exudate</a></li>
+<li><a class="" href="collection-handling-1.html">Collection &amp; Handling</a></li>
+<li><a class="" href="physical-testing-1.html">Physical Testing</a></li>
+<li><a class="" href="chemical-testing-1.html">Chemical Testing</a></li>
+<li><a class="" href="microscopic-analysis-1.html">Microscopic Analysis</a></li>
+<li><a class="" href="disease-correlation-1.html">Disease Correlation</a></li>
+<li><a class="" href="synovial.html">Synovial</a></li>
+<li><a class="" href="physiology-2.html">Physiology</a></li>
+<li><a class="" href="collection-handling-2.html">Collection &amp; Handling</a></li>
+<li><a class="" href="physical-testing-2.html">Physical Testing</a></li>
+<li><a class="" href="chemical-testing-2.html">Chemical Testing</a></li>
+<li><a class="" href="microscopic-analysis-2.html">Microscopic Analysis</a></li>
+<li><a class="" href="disease-correlation-2.html">Disease Correlation</a></li>
+<li><a class="" href="bal.html">BAL</a></li>
+<li><a class="" href="physiology-3.html">Physiology</a></li>
+<li><a class="" href="collection-handling-3.html">Collection &amp; Handling</a></li>
+<li><a class="" href="physical-testing-3.html">Physical Testing</a></li>
+<li><a class="" href="chemical-testing-3.html">Chemical Testing</a></li>
+<li><a class="" href="microscopic-analysis-3.html">Microscopic Analysis</a></li>
+<li><a class="" href="disease-correlation-3.html">Disease Correlation</a></li>
+<li><a class="" href="semen.html">Semen</a></li>
+<li><a class="" href="physiology-4.html">Physiology</a></li>
+<li><a class="" href="collection-handling-4.html">Collection &amp; Handling</a></li>
+<li><a class="" href="physical-testing-4.html">Physical Testing</a></li>
+<li><a class="" href="chemical-testing-4.html">Chemical Testing</a></li>
+<li><a class="" href="microscopic-analysis-4.html">Microscopic Analysis</a></li>
+<li><a class="" href="disease-correlation-4.html">Disease Correlation</a></li>
+<li><a class="" href="amniotic.html">Amniotic</a></li>
+<li><a class="" href="physiology-5.html">Physiology</a></li>
+<li><a class="" href="collection-handling-5.html">Collection &amp; Handling</a></li>
+<li><a class="" href="physical-testing-5.html">Physical Testing</a></li>
+<li><a class="" href="chemical-testing-5.html">Chemical Testing</a></li>
+<li><a class="" href="microscopic-analysis-5.html">Microscopic Analysis</a></li>
+<li><a class="" href="disease-correlation-5.html">Disease Correlation</a></li>
+<li><a class="" href="feces.html">Feces</a></li>
+<li><a class="" href="physiology-6.html">Physiology</a></li>
+<li><a class="" href="collection-handling-6.html">Collection &amp; Handling</a></li>
+<li><a class="" href="physical-testing-6.html">Physical Testing</a></li>
+<li><a class="" href="chemical-testing-6.html">Chemical Testing</a></li>
+<li><a class="" href="microscopic-analysis-6.html">Microscopic Analysis</a></li>
+<li><a class="" href="disease-correlation-6.html">Disease Correlation</a></li>
+</ul>
+
+        <div class="book-extra" style="display:none;">
+          <p><a id="book-repo" href="https://github.com/brettmrice/Clinical-Urinalysis-Body-Fluids/blob">View book source <i class="fab fa-github"></i></a></p>
+        </div>
+      </nav>
+</div>
+  </header><main class="col-sm-12 col-md-9 col-lg-7" id="content"><div id="disease-correlation" class="section level1 unnumbered">
+<h1>Disease Correlation<a class="anchor" aria-label="anchor" href="#disease-correlation"><i class="fas fa-link"></i></a>
+</h1>
+<p>We have spent the last several lectures meticulously taking apart the analysis of cerebrospinal fluid. We’ve learned the <em>what</em> and the <em>how</em>. Today, we learn the <em>why</em>. This is the synthesis. We will take the classic patterns of laboratory results and correlate them directly with the major pathologies of the central nervous system</p>
+<p>Your value as a laboratory scientist is not just in your ability to generate a correct number, but in your ability to recognize a pattern of results and understand its clinical implication. When you see a CSF with 5,000 neutrophils, rock-bottom glucose, and sky-high protein, you shouldn’t just see numbers; you should see a patient with acute bacterial meningitis whose life is in immediate danger. This lecture is about learning to see the patient through the data</p>
+<div id="infectious-meningitides-the-classic-triad" class="section level2 unnumbered">
+<h2>
+<strong>Infectious Meningitides: The Classic Triad</strong><a class="anchor" aria-label="anchor" href="#infectious-meningitides-the-classic-triad"><i class="fas fa-link"></i></a>
+</h2>
+<p>Meningitis, the inflammation of the meninges, is the most common and critical diagnosis made from CSF. Differentiating the cause is an absolute emergency</p>
+<div id="acute-bacterial-meningitis-a-neurological-emergency" class="section level3 unnumbered">
+<h3>
+<strong>Acute Bacterial Meningitis: A Neurological Emergency</strong><a class="anchor" aria-label="anchor" href="#acute-bacterial-meningitis-a-neurological-emergency"><i class="fas fa-link"></i></a>
+</h3>
+<ul>
+<li>
+<strong>Pathophysiology:</strong> Bacteria enter the subarachpečknoid space, multiply rapidly, and trigger a massive, purulent inflammatory response. This inflammation leads to increased intracranial pressure, cerebral edema, and vasculitis, which can cause stroke and permanent neurological damage</li>
+<li>
+<strong>The Classic CSF Profile</strong>
+<ul>
+<li>
+<strong>Appearance:</strong> Turbid to frankly purulent (looks like pus)</li>
+<li>
+<strong>Opening Pressure:</strong> Markedly elevated</li>
+<li>
+<strong>WBC Count:</strong> Markedly elevated (&gt;1,000/µL, often many thousands)</li>
+<li>
+<strong>Differential:</strong> <strong>&gt;80% Neutrophils.</strong> This is the hallmark. You may see toxic granulation and vacuolization in the neutrophils</li>
+<li>
+<strong>Protein:</strong> Markedly elevated (&gt;100 mg/dL) due to profound BBB breakdown</li>
+<li>
+<strong>Glucose:</strong> <strong>Markedly decreased (&lt;40 mg/dL or &lt;40% of plasma).</strong> This is due to consumption by both the bacteria and the massive number of neutrophils</li>
+<li>
+<strong>Lactate:</strong> Markedly elevated (&gt;35 mg/dL)</li>
+<li>
+<strong>Gram Stain:</strong> Often positive, providing a rapid presumptive ID of the causative agent (<em>S. pneumoniae, N. meningitidis, L. monocytogenes</em>, etc.)</li>
+</ul>
+</li>
+<li>
+<strong>Clinical Bottom Line:</strong> This pattern is a “panic” result. The lab must phone the clinician immediately. Treatment with broad-spectrum antibiotics cannot wait for culture results</li>
+</ul>
+</div>
+<div id="aseptic-viral-meningitis-the-common-imposter" class="section level3 unnumbered">
+<h3>
+<strong>Aseptic (Viral) Meningitis: The Common Imposter</strong><a class="anchor" aria-label="anchor" href="#aseptic-viral-meningitis-the-common-imposter"><i class="fas fa-link"></i></a>
+</h3>
+<ul>
+<li>
+<strong>Pathophysiology:</strong> A virus (e.g., enterovirus, herpes simplex virus) infects the meninges. The resulting inflammation is typically less intense and is mediated by a different arm of the immune system. The disease is usually self-limiting</li>
+<li>
+<strong>The Classic CSF Profile</strong>
+<ul>
+<li>
+<strong>Appearance:</strong> Clear to slightly hazy</li>
+<li>
+<strong>Opening Pressure:</strong> Normal to slightly elevated</li>
+<li>
+<strong>WBC Count:</strong> Moderately elevated (typically 50-1,000/µL)</li>
+<li>
+<strong>Differential:</strong> <strong>Predominantly Lymphocytes.</strong> There may be an initial neutrophilic response in the first 24-48 hours, but it quickly shifts to a lymphocytic pleocytosis</li>
+<li>
+<strong>Protein:</strong> Normal to moderately elevated (e.g., 50-100 mg/dL). The BBB is not as severely damaged</li>
+<li>
+<strong>Glucose:</strong> <strong>Normal.</strong> This is the key differentiating feature from bacterial meningitis</li>
+<li>
+<strong>Lactate:</strong> Normal</li>
+<li>
+<strong>Microbiology:</strong> All bacterial stains and cultures will be negative. Diagnosis is often confirmed with PCR for specific viral DNA/RNA</li>
+</ul>
+</li>
+<li>
+<strong>Clinical Bottom Line:</strong> This profile allows clinicians to confidently withhold or stop antibiotics and provide supportive care</li>
+</ul>
+</div>
+<div id="chronic-fungaltuberculous-meningitis-the-insidious-invader" class="section level3 unnumbered">
+<h3>
+<strong>Chronic (Fungal/Tuberculous) Meningitis: The Insidious Invader</strong><a class="anchor" aria-label="anchor" href="#chronic-fungaltuberculous-meningitis-the-insidious-invader"><i class="fas fa-link"></i></a>
+</h3>
+<ul>
+<li>
+<strong>Pathophysiology:</strong> An insidious, slow-growing infection, often seen in immunocompromised patients (<em>Cryptococcus</em>) or as a result of disseminated TB. The inflammation develops over weeks to months</li>
+<li>
+<strong>The Classic CSF Profile</strong>
+<ul>
+<li>
+<strong>Appearance:</strong> Hazy, viscous. A classic finding in TB meningitis is the formation of a delicate, web-like clot (“pellicle”) after the fluid sits overnight</li>
+<li>
+<strong>WBC Count:</strong> Moderately elevated (100-500/µL)</li>
+<li>
+<strong>Differential:</strong> <strong>A mix of Lymphocytes and Monocytes.</strong> Neutrophils are typically low</li>
+<li>
+<strong>Protein:</strong> Markedly elevated, often higher than in bacterial meningitis, due to the chronic inflammation</li>
+<li>
+<strong>Glucose:</strong> <strong>Decreased.</strong> Both fungi and mycobacteria consume glucose</li>
+<li>
+<strong>Microbiology</strong>
+<ul>
+<li>
+<strong>Fungal:</strong> India Ink may reveal encapsulated <em>Cryptococcus</em>. Fungal culture or antigen tests are key</li>
+<li>
+<strong>Tuberculous:</strong> Acid-fast stains have low sensitivity but are diagnostic if positive. Culture or molecular amplification (PCR) is required</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<strong>Clinical Bottom Line:</strong> The diagnosis can be challenging and is often delayed. The combination of lymphocytic pleocytosis with low glucose should raise strong suspicion</li>
+</ul>
+</div>
+</div>
+<div id="non-infectious-cns-pathologies" class="section level2 unnumbered">
+<h2>
+<strong>Non-Infectious CNS Pathologies</strong><a class="anchor" aria-label="anchor" href="#non-infectious-cns-pathologies"><i class="fas fa-link"></i></a>
+</h2>
+<div id="subarachnoid-hemorrhage-sah-1" class="section level3 unnumbered">
+<h3>
+<strong>Subarachnoid Hemorrhage (SAH)</strong><a class="anchor" aria-label="anchor" href="#subarachnoid-hemorrhage-sah-1"><i class="fas fa-link"></i></a>
+</h3>
+<ul>
+<li>
+<strong>Pathophysiology:</strong> Bleeding into the subarachnoid space, most commonly from a ruptured cerebral aneurysm. The blood acts as a chemical irritant to the meninges</li>
+<li>
+<strong>The Classic CSF Profile (after differentiating from a traumatic tap)</strong>
+<ul>
+<li>
+<strong>Appearance:</strong> Visibly bloody initially, with <strong>xanthochromic supernatant</strong> after centrifugation. This is the diagnostic finding</li>
+<li>
+<strong>Opening Pressure:</strong> Markedly elevated</li>
+<li>
+<strong>RBC Count:</strong> Very high and consistent across all tubes</li>
+<li>
+<strong>WBC Count:</strong> Will be elevated in proportion to the blood present, but also due to a secondary chemical meningitis caused by the blood</li>
+<li>
+<strong>Microscopic:</strong> After 12-24 hours, look for <strong>erythrophages</strong> and <strong>hemosiderin-laden macrophages</strong>, which are definitive proof of in-vivo bleeding</li>
+</ul>
+</li>
+<li>
+<strong>Clinical Bottom Line:</strong> The lab’s confirmation of xanthochromia differentiates a true bleed from a procedural complication, directing the patient toward urgent neurosurgical intervention</li>
+</ul>
+</div>
+<div id="multiple-sclerosis-ms" class="section level3 unnumbered">
+<h3>
+<strong>Multiple Sclerosis (MS)</strong><a class="anchor" aria-label="anchor" href="#multiple-sclerosis-ms"><i class="fas fa-link"></i></a>
+</h3>
+<ul>
+<li>
+<strong>Pathophysiology:</strong> A chronic autoimmune disease where the body’s own immune system attacks the myelin sheaths of CNS neurons. This leads to localized inflammation and the production of immunoglobulins within the CNS</li>
+<li>
+<strong>The Classic CSF Profile</strong>
+<ul>
+<li>
+<strong>Appearance:</strong> Clear and colorless</li>
+<li>
+<strong>WBC Count:</strong> Normal to slightly elevated (&lt;50/µL)</li>
+<li>
+<strong>Differential:</strong> Predominantly lymphocytes and plasma cells (activated B-cells)</li>
+<li>
+<strong>Protein:</strong> Normal to slightly elevated</li>
+<li>
+<strong>Glucose:</strong> Normal</li>
+<li>
+<strong>The Key Diagnostic Test: Oligoclonal Bands.</strong>
+<ul>
+<li>CSF protein electrophoresis is performed alongside a serum sample from the same patient</li>
+<li>In &gt;90% of MS patients, the CSF will show two or more discrete gamma globulin bands that are <strong>NOT:</strong> present in the serum</li>
+<li>This pattern signifies <strong>intrathecal (within the CNS) synthesis of IgG</strong>, the hallmark of MS</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<strong>Clinical Bottom Line:</strong> Lab findings support a clinical diagnosis of MS, ruling out other mimics</li>
+</ul>
+</div>
+<div id="guillain-barré-syndrome" class="section level3 unnumbered">
+<h3>
+<strong>Guillain-Barré Syndrome</strong><a class="anchor" aria-label="anchor" href="#guillain-barr%C3%A9-syndrome"><i class="fas fa-link"></i></a>
+</h3>
+<ul>
+<li>
+<strong>Pathophysiology:</strong> An autoimmune disease typically affecting the peripheral nervous system (nerve roots), often triggered by a preceding infection. It causes demyelination of peripheral nerves</li>
+<li>
+<strong>The Classic CSF Profile</strong>
+<ul>
+<li>
+<strong>Appearance:</strong> Clear, may be xanthochromic if protein is very high</li>
+<li>
+<strong>Key Finding: Albuminocytologic Dissociation.</strong>
+<ul>
+<li>
+<strong>Protein:</strong> <strong>Markedly elevated.</strong> This is due to increased permeability of the nerve root vessels near the CSF space</li>
+<li>
+<strong>WBC Count:</strong> <strong>Normal or only very slightly elevated.</strong>
+</li>
+</ul>
+</li>
+<li>This “dissociation” between a very high protein level and a normal cell count is the classic finding</li>
+</ul>
+</li>
+<li>
+<strong>Clinical Bottom Line:</strong> This distinctive pattern strongly supports the diagnosis of Guillain-Barré syndrome</li>
+</ul>
+</div>
+<div id="cns-malignancy" class="section level3 unnumbered">
+<h3>
+<strong>CNS Malignancy</strong><a class="anchor" aria-label="anchor" href="#cns-malignancy"><i class="fas fa-link"></i></a>
+</h3>
+<ul>
+<li>
+<strong>Pathophysiology:</strong> Cancer cells seed the meninges (carcinomatous meningitis) or arise from primary CNS tumors. Leukemia and lymphoma can also infiltrate the CNS</li>
+<li>
+<strong>The Classic CSF Profile</strong>
+<ul>
+<li>
+<strong>Appearance:</strong> Can be clear or cloudy, depending on cell count</li>
+<li>
+<strong>WBC Count:</strong> Varies from normal to markedly elevated</li>
+<li>
+<strong>Differential:</strong> A mixed pleocytosis is common</li>
+<li>
+<strong>Protein:</strong> Often elevated</li>
+<li>
+<strong>Glucose:</strong> Can be <strong>decreased</strong> as tumor cells have high metabolic rates</li>
+<li>
+<strong>The Key Diagnostic Test: Cytology.</strong>
+<ul>
+<li>A cytospin slide is examined for malignant cells. Look for classic features: cellular clustering/molding, high N:C ratio, irregular nuclear membranes, prominent nucleoli</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<strong>Clinical Bottom Line:</strong> The unequivocal identification of malignant cells in the CSF is diagnostic of CNS metastasis or primary malignancy and has profound implications for the patient’s prognosis and treatment plan</li>
+</ul>
+</div>
+</div>
+<div id="conclusion-4" class="section level2 unnumbered">
+<h2>
+<strong>Conclusion</strong><a class="anchor" aria-label="anchor" href="#conclusion-4"><i class="fas fa-link"></i></a>
+</h2>
+<p>As we’ve seen, a small set of laboratory tests on CSF can differentiate between a wide and dramatic range of pathologies. The power lies not in any single result, but in the <strong>pattern</strong>. By learning to recognize these classic diagnostic profiles, you transition from a laboratory scientistwho generates data to a scientist who provides diagnostic insight. This is the ultimate expression of our profession’s importance in patient care</p>
+
+</div>
+</div>
+<!-- Scoll to TOC element -->
+<script defer>
+  // adjust TOC scroll to selected element/topic
+  function scroll_to_element() {
+    header_height = document.getElementsByTagName('header')[0].offsetHeight/2;
+    toc_element_position = document.querySelector('.book-toc > li > a.active').offsetTop;
+    if(document.querySelector('.book-toc > li > a.active').offsetLeft == 0) {
+      toc_element_position1 = document.querySelector('.book-toc > li > a.active').offsetParent.offsetTop;
+      toc_element_position2 = document.querySelector('.book-toc > li > a.active').offsetParent.offsetHeight;
+      toc_element_position = toc_element_position1 + toc_element_position2;
+    }
+    document.getElementsByTagName('header')[0].scrollTo(0, toc_element_position - header_height, 'smooth');
+  }
+  window.onload = scroll_to_element();
+
+  // hide those labes that take up multiple lines
+  sections = [];
+  topics = [];
+  function hide_label() {
+    // sections
+    document
+      .querySelectorAll('.book-toc > li')
+      .forEach(elem => {
+        window
+          .getComputedStyle(elem)
+          .textTransform === "uppercase"
+          &&
+          elem.classList
+          .contains('book-part')
+          ? sections.push(elem)
+          : '';
+      });
+
+    // topics
+    document
+      .querySelectorAll('.book-toc > li')
+      .forEach(elem => {
+        window
+          .getComputedStyle(elem)
+          .textTransform === "uppercase"
+          &&
+          !elem.classList
+          .contains('book-part')
+          ? topics.push(elem)
+          : '';
+      });
+  }
+  hide_label();
+  head = document.getElementsByTagName('header')[0];
+  head.addEventListener('scroll', () => {
+    // sections
+    count_sections = 0;
+    prev_sections_elem = '';
+    sections
+      .forEach((elem) => {
+      if(count_sections === 0) {
+        initial_y = elem.getBoundingClientRect().y + 20;
+        count_sections = 1;
+      } else {
+        if(elem.getBoundingClientRect().y < initial_y) {
+          prev_sections_elem.classList.add('hide_label');
+        } else {
+          prev_sections_elem.classList.remove('hide_label');
+        }
+      }
+      prev_sections_elem = elem;
+    });
+    // topics
+    count_topics = 0;
+    prev_topic_elem = '';
+    topics
+      .forEach((elem) => {
+      if(count_topics === 0) {
+        initial_y = elem.getBoundingClientRect().y + 20;
+        count_topics = 1;
+      } else {
+        if(elem.getBoundingClientRect().y < initial_y) {
+          prev_topic_elem.classList.add('hide_label');
+        } else {
+          prev_topic_elem.classList.remove('hide_label');
+        }
+      }
+      prev_topic_elem = elem;
+    });
+  });
+</script><div class="chapter-nav">
+<div class="prev"><a href="microscopic-analysis.html">Microscopic Analysis</a></div>
+<div class="next"><a href="serous.html">Serous</a></div>
+</div></main><div class="col-md-3 col-lg-2 d-none d-md-block sidebar sidebar-chapter">
+    <nav id="toc" data-toggle="toc" aria-label="On this page"><h2>On this page</h2>
+      <ul class="nav navbar-nav">
+<li><a class="nav-link" href="#disease-correlation">Disease Correlation</a></li>
+<li>
+<a class="nav-link" href="#infectious-meningitides-the-classic-triad">Infectious Meningitides: The Classic Triad</a><ul class="nav navbar-nav">
+<li><a class="nav-link" href="#acute-bacterial-meningitis-a-neurological-emergency">Acute Bacterial Meningitis: A Neurological Emergency</a></li>
+<li><a class="nav-link" href="#aseptic-viral-meningitis-the-common-imposter">Aseptic (Viral) Meningitis: The Common Imposter</a></li>
+<li><a class="nav-link" href="#chronic-fungaltuberculous-meningitis-the-insidious-invader">Chronic (Fungal/Tuberculous) Meningitis: The Insidious Invader</a></li>
+</ul>
+</li>
+<li>
+<a class="nav-link" href="#non-infectious-cns-pathologies">Non-Infectious CNS Pathologies</a><ul class="nav navbar-nav">
+<li><a class="nav-link" href="#subarachnoid-hemorrhage-sah-1">Subarachnoid Hemorrhage (SAH)</a></li>
+<li><a class="nav-link" href="#multiple-sclerosis-ms">Multiple Sclerosis (MS)</a></li>
+<li><a class="nav-link" href="#guillain-barr%C3%A9-syndrome">Guillain-Barré Syndrome</a></li>
+<li><a class="nav-link" href="#cns-malignancy">CNS Malignancy</a></li>
+</ul>
+</li>
+<li><a class="nav-link" href="#conclusion-4">Conclusion</a></li>
+</ul>
+
+      <div class="book-extra">
+        <ul class="list-unstyled">
+<li><a id="book-source" href="https://github.com/brettmrice/Clinical-Urinalysis-Body-Fluids/blob/blob/main/Rmd/02-A-00-f.Rmd">View source <i class="fab fa-github"></i></a></li>
+          <li><a id="book-edit" href="https://github.com/brettmrice/Clinical-Urinalysis-Body-Fluids/blob/edit/main/Rmd/02-A-00-f.Rmd" target="_blank">Edit this page <i class="fab fa-github"></i></a></li>
+          <li><a id="buymeacoffee" href="https://buymeacoffee.com/bloodcellid" target="_blank">NEED Caffeine</a></li>
+        </ul>
+</div>
+    </nav>
+</div>
+
+</div>
+</div> <!-- .container -->
+
+
+</body>
+</html>

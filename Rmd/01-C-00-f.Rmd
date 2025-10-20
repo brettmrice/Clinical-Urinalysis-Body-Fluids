@@ -34,7 +34,7 @@ These are another frequent visitor, often causing confusion with pathologically 
     *   **Refractility & Size:** Like air bubbles, they are highly refractile and vary in size, unlike the more uniform RBCs
     *   **Context is King:** This is the most important differentiator from fat globules. Pathologic lipids (fat globules, oval fat bodies, fatty casts) are seen in the context of **Nephrotic Syndrome**. You would expect to see **heavy proteinuria (3+ or 4+)** on the reagent strip. If the protein is negative or trace, the refractile spheres are almost certainly artifactual oil droplets
 
-### **Glass Fragments and Scratches** {-}
+### **Glass Fragments & Scratches** {-}
 
 Your microscope slide and coverslip can sometimes be the source of confusion themselves
 
@@ -72,12 +72,12 @@ To avoid being fooled by these phantoms, always remember these key principles:
 
 ## **Putting It All Together: Don't Get Fooled by Phantoms** {-}
 
-If contaminants are the clutter that falls into the cup, artifacts are the **phantoms of the microscope**—the optical illusions created by our own process and equipment. Mastering your craft means learning to spot these ghosts and not fall into their classic traps
+If contaminants are the clutter that falls into the cup, artifacts are the **phantoms of the microscope** - the optical illusions created by our own process and equipment. Mastering your craft means learning to spot these ghosts and not fall into their classic traps
 
 This skill is tested daily at the bench:
 
 *   Distinguishing the highly refractile, dark-bordered **air bubble:** from a delicate **RBC**
-*   Differentiating an **oil droplet:** from a pathologic **fat globule** by running a quick "sanity check"—is there high protein on the dipstick to suggest nephrotic syndrome?
+*   Differentiating an **oil droplet:** from a pathologic **fat globule** by running a quick "sanity check" - is there high protein on the dipstick to suggest nephrotic syndrome?
 *   Recognizing that the perfectly straight **scratch on the slide:** is not a **cast**, or that the amorphous purple blobs are just **stain precipitate**, not bacteria
 
 Your best defenses against these illusions are your fine adjustment knob and a healthy dose of clinical correlation. Recognizing an artifact is a mark of a disciplined scientist. It proves you trust what you see but verify with what you know, ensuring you only report what is truly there and not the phantoms in the machine

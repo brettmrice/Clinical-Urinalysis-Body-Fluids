@@ -34,7 +34,7 @@ These diseases involve damage to the glomerulus, the kidney's primary filter. Th
         *   Numerous RBCs and WBCs
 *   **The "Why":** Inflammation creates breaks in the glomerular barrier large enough for cells to pass through. The RBCs that get trapped in the tubules form the tell-tale RBC casts
 
-## **Tubular Diseases and Infections** {-}
+## **Tubular Diseases & Infections** {-}
 
 These conditions involve the renal tubules and the interstitium (the tissue surrounding the tubules)
 
@@ -89,7 +89,7 @@ These systemic diseases manifest powerfully in the urine
     *   **Chemical/Microscopic:** Otherwise unremarkable
 *   **The "Why":** Without ADH, the collecting ducts cannot reabsorb water. All the water from the filtrate is flushed out, resulting in a large volume of very dilute urine
 
-## **Liver and Biliary Tract Disorders** {-}
+## **Liver & Biliary Tract Disorders** {-}
 
 The urinalysis provides a critical, non-invasive window into liver function by measuring bilirubin and urobilinogen
 

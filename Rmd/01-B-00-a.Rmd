@@ -8,13 +8,13 @@ But before we can trust our results, we have to perfect our technique. A poorly 
 
 ## **Proper Reagent Strip Technique: The Non-Negotiables** {-}
 
-1.  **Check the Expiration Date** Never use an expired strip or a container that's been open too long. The reagents degrade with exposure to light, heat, and humidity
-2.  **Mix the Specimen** Gently swirl the urine to ensure a uniform suspension of any formed elements. Don't centrifuge first!
-3.  **Dip Briefly and Completely** Submerge all the pads into the urine, but only for a moment (about 1 second). "Marinating" the strip will cause reagents to leach out of the pads
-4.  **Remove Excess Urine** As you withdraw the strip, run the edge against the side of the container. Then, blot the edge of the strip on an absorbent material. This is critical to prevent "run-over," where chemicals from one pad bleed into the next, causing erroneous results
-5.  **Hold Horizontally** While waiting for the reaction times, hold the strip flat to prevent run-over
-6.  **Read at the Correct Time** Each reaction has a specific endpoint. Glucose reads at 30 seconds, while leukocytes can take up to 2 minutes. Reading too early or too late will lead to incorrect results. Most automated readers handle this timing perfectly, but it's essential to know for manual readings
-7.  **Use a Good Light Source** Compare the color changes to the chart on the container in well-lit conditions
+1.  **Check the Expiration Date:** Never use an expired strip or a container that's been open too long. The reagents degrade with exposure to light, heat, and humidity
+2.  **Mix the Specimen:** Gently swirl the urine to ensure a uniform suspension of any formed elements. Don't centrifuge first!
+3.  **Dip Briefly and Completely:** Submerge all the pads into the urine, but only for a moment (about 1 second). "Marinating" the strip will cause reagents to leach out of the pads
+4.  **Remove Excess Urine:** As you withdraw the strip, run the edge against the side of the container. Then, blot the edge of the strip on an absorbent material. This is critical to prevent "run-over," where chemicals from one pad bleed into the next, causing erroneous results
+5.  **Hold Horizontally:** While waiting for the reaction times, hold the strip flat to prevent run-over
+6.  **Read at the Correct Time:** Each reaction has a specific endpoint. Glucose reads at 30 seconds, while leukocytes can take up to 2 minutes. Reading too early or too late will lead to incorrect results. Most automated readers handle this timing perfectly, but it's essential to know for manual readings
+7.  **Use a Good Light Source:** Compare the color changes to the chart on the container in well-lit conditions
 
 Now, let's walk through each pad, one by one
 
@@ -115,7 +115,7 @@ Now, let's walk through each pad, one by one
 
 ## **Putting It All Together: The Power of Correlation** {-}
 
-No single test result should be interpreted in a vacuum. The real skill of a Medical Laboratory Scientist is to see the patterns
+No single test result should be interpreted in a vacuum. The real skill of a laboratory scientist is to see the patterns
 
 *   **Positive Glucose + Positive Ketones:** = Probable Diabetic Ketoacidosis (DKA)
 *   **Positive Nitrite + Positive Leukocyte Esterase:** = Strong evidence for a UTI
